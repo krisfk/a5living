@@ -1,0 +1,264 @@
+[2021-08-19 08:54:31 : INFO] - Re_Smush_It_Task server status: Online 
+[2021-08-19 08:55:00 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2021-08-19 08:55:00 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2021-08-19 08:55:00 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-19 08:55:00 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-19 08:55:00 : INFO] - 90 
+[2021-08-19 08:55:00 : INFO] - 90 
+[2021-08-19 08:55:01 : INFO] - Backing up the original image - 2021/08/oulu123-updraft-pre-smush-original.jpg 
+[2021-08-19 08:55:01 : INFO] - Backing up the original image - 2021/08/oulu123-updraft-pre-smush-original.jpg 
+[2021-08-19 08:55:01 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-19 08:55:01 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-19 08:55:01 : INFO] - 90 
+[2021-08-19 08:55:01 : INFO] - 90 
+[2021-08-19 08:55:02 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-19 08:55:02 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-19 08:55:02 : INFO] - 90 
+[2021-08-19 08:55:02 : INFO] - 90 
+[2021-08-19 08:55:07 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-19 08:55:07 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-19 08:55:07 : INFO] - 90 
+[2021-08-19 08:55:07 : INFO] - 90 
+[2021-08-19 08:55:10 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-19 08:55:10 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-19 08:55:10 : INFO] - 90 
+[2021-08-19 08:55:10 : INFO] - 90 
+[2021-08-19 08:55:11 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-19 08:55:11 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-19 08:55:11 : INFO] - 90 
+[2021-08-19 08:55:11 : INFO] - 90 
+[2021-08-19 08:55:15 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-19 08:55:15 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-19 08:55:15 : INFO] - 90 
+[2021-08-19 08:55:15 : INFO] - 90 
+[2021-08-25 02:21:04 : INFO] - Re_Smush_It_Task with attachment ID : 10693, autocreated on : August 25, 2021 02:21:04 
+[2021-08-25 02:26:11 : INFO] - 
+ 
+[2021-08-25 02:26:11 : INFO] - Header for logs at time:  Wed, 25 Aug 2021 02:26:11 +0000 on https://a5living.com 
+[2021-08-25 02:26:11 : INFO] - WP: 5.8 
+[2021-08-25 02:26:11 : INFO] - PHP: 7.4.22 (litespeed, Linux nvme219.namehero.net 3.10.0-962.3.2.lve1.5.60.el7.x86_64 #1 SMP Fri Jul 23 07:07:00 EDT 2021 x86_64) 
+[2021-08-25 02:26:11 : INFO] - MySQL: 10.3.30 
+[2021-08-25 02:26:11 : INFO] - WPLANG: zh_HK 
+[2021-08-25 02:26:11 : INFO] - Server: LiteSpeed 
+[2021-08-25 02:26:11 : INFO] - Outbound connections: N 
+[2021-08-25 02:26:11 : INFO] - safe_mode: 0 
+[2021-08-25 02:26:11 : INFO] - max_execution_time: 600 
+[2021-08-25 02:26:11 : INFO] - memory_limit: 368M (used: 120.3M | 123M) 
+[2021-08-25 02:26:11 : INFO] - multisite: N 
+[2021-08-25 02:26:11 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-08-25 02:26:11 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-08-25 02:26:11 : INFO] - Set semaphore last lock (smush) time to 2021-08-25 02:26:11 
+[2021-08-25 02:26:11 : INFO] - Semaphore lock (smush) complete 
+[2021-08-25 02:26:11 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2021-08-25 02:26:11 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-25 02:26:11 : INFO] - 90 
+[2021-08-25 02:26:12 : INFO] - Backing up the original image - 2021/08/oulu123-updraft-pre-smush-original.jpg 
+[2021-08-25 02:26:12 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-25 02:26:12 : INFO] - 90 
+[2021-08-25 02:26:13 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-25 02:26:13 : INFO] - 90 
+[2021-08-25 02:26:14 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-25 02:26:14 : INFO] - 90 
+[2021-08-25 02:26:15 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-25 02:26:15 : INFO] - 90 
+[2021-08-25 02:26:16 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-25 02:26:16 : INFO] - 90 
+[2021-08-25 02:26:18 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-25 02:26:18 : INFO] - 90 
+[2021-08-25 02:26:19 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-25 02:26:19 : INFO] - 90 
+[2021-08-25 02:26:20 : INFO] - Re_Smush_It_Task - attachment ID : 10570, started on : August 19, 2021 08:54:56 
+[2021-08-25 02:26:20 : INFO] - 90 
+[2021-08-25 02:26:20 : INFO] - Successfully optimized the image - /home/alivingc/public_html/wp-content/uploads/2021/08/oulu123.jpg.The file was compressed from 66.23 KB to 66.23 KB saving 0 percent using WP-Optimize 
+[2021-08-25 02:26:20 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2021-08-25 02:26:20 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2021-08-25 02:26:20 : INFO] - Re_Smush_It_Task with attachment ID : 10693, autocreated on : August 25, 2021 02:21:04 
+[2021-08-25 02:26:20 : INFO] - 90 
+[2021-08-25 02:26:21 : INFO] - Backing up the original image - 2021/08/DOSHISHA-updraft-pre-smush-original.png 
+[2021-08-25 02:26:21 : INFO] - Re_Smush_It_Task with attachment ID : 10693, autocreated on : August 25, 2021 02:21:04 
+[2021-08-25 02:26:21 : INFO] - 90 
+[2021-08-25 02:26:21 : INFO] - Re_Smush_It_Task with attachment ID : 10693, autocreated on : August 25, 2021 02:21:04 
+[2021-08-25 02:26:21 : INFO] - 90 
+[2021-08-25 02:26:22 : INFO] - Successfully optimized the image - /home/alivingc/public_html/wp-content/uploads/2021/08/DOSHISHA.png.The file was compressed from 2.52 KB to 1.87 KB saving 26.02 percent using WP-Optimize 
+[2021-08-25 02:26:22 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2021-08-25 02:26:22 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-08-25 02:26:22 : INFO] - Semaphore (smush) unlocked 
+[2021-08-25 02:26:22 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-08-25 02:26:22 : INFO] - Semaphore (smush, wpp5_options) was successfully cleaned up 
+[2021-08-25 02:26:22 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2021-08-25 02:36:14 : INFO] - 
+ 
+[2021-08-25 02:36:14 : INFO] - Header for logs at time:  Wed, 25 Aug 2021 02:36:14 +0000 on https://a5living.com 
+[2021-08-25 02:36:14 : INFO] - WP: 5.8 
+[2021-08-25 02:36:14 : INFO] - PHP: 7.4.22 (litespeed, Linux nvme219.namehero.net 3.10.0-962.3.2.lve1.5.60.el7.x86_64 #1 SMP Fri Jul 23 07:07:00 EDT 2021 x86_64) 
+[2021-08-25 02:36:14 : INFO] - MySQL: 10.3.30 
+[2021-08-25 02:36:14 : INFO] - WPLANG: zh_HK 
+[2021-08-25 02:36:14 : INFO] - Server: LiteSpeed 
+[2021-08-25 02:36:14 : INFO] - Outbound connections: N 
+[2021-08-25 02:36:14 : INFO] - safe_mode: 0 
+[2021-08-25 02:36:14 : INFO] - max_execution_time: 600 
+[2021-08-25 02:36:14 : INFO] - memory_limit: 368M (used: 120.2M | 123M) 
+[2021-08-25 02:36:14 : INFO] - multisite: N 
+[2021-08-25 02:36:14 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-08-25 02:36:14 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-08-25 02:39:09 : INFO] - Re_Smush_It_Task with attachment ID : 10695, autocreated on : August 25, 2021 02:39:09 
+[2021-08-25 02:42:54 : INFO] - Re_Smush_It_Task with attachment ID : 10696, autocreated on : August 25, 2021 02:42:54 
+[2021-08-25 02:44:40 : INFO] - 
+ 
+[2021-08-25 02:44:40 : INFO] - Header for logs at time:  Wed, 25 Aug 2021 02:44:40 +0000 on https://a5living.com 
+[2021-08-25 02:44:40 : INFO] - WP: 5.8 
+[2021-08-25 02:44:40 : INFO] - PHP: 7.4.22 (litespeed, Linux nvme219.namehero.net 3.10.0-962.3.2.lve1.5.60.el7.x86_64 #1 SMP Fri Jul 23 07:07:00 EDT 2021 x86_64) 
+[2021-08-25 02:44:40 : INFO] - MySQL: 10.3.30 
+[2021-08-25 02:44:40 : INFO] - WPLANG: zh_HK 
+[2021-08-25 02:44:40 : INFO] - Server: LiteSpeed 
+[2021-08-25 02:44:40 : INFO] - Outbound connections: N 
+[2021-08-25 02:44:40 : INFO] - safe_mode: 0 
+[2021-08-25 02:44:40 : INFO] - max_execution_time: 600 
+[2021-08-25 02:44:40 : INFO] - memory_limit: 368M (used: 120.3M | 123M) 
+[2021-08-25 02:44:40 : INFO] - multisite: N 
+[2021-08-25 02:44:40 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-08-25 02:44:40 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-08-25 02:44:40 : INFO] - Set semaphore last lock (smush) time to 2021-08-25 02:44:40 
+[2021-08-25 02:44:40 : INFO] - Semaphore lock (smush) complete 
+[2021-08-25 02:44:40 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2021-08-25 02:44:40 : INFO] - Re_Smush_It_Task with attachment ID : 10695, autocreated on : August 25, 2021 02:39:09 
+[2021-08-25 02:44:40 : INFO] - 90 
+[2021-08-25 02:44:41 : INFO] - Backing up the original image - 2021/08/PRISMATE-updraft-pre-smush-original.png 
+[2021-08-25 02:44:41 : INFO] - Re_Smush_It_Task with attachment ID : 10695, autocreated on : August 25, 2021 02:39:09 
+[2021-08-25 02:44:41 : INFO] - 90 
+[2021-08-25 02:44:41 : INFO] - Re_Smush_It_Task with attachment ID : 10695, autocreated on : August 25, 2021 02:39:09 
+[2021-08-25 02:44:41 : INFO] - 90 
+[2021-08-25 02:44:42 : INFO] - Successfully optimized the image - /home/alivingc/public_html/wp-content/uploads/2021/08/PRISMATE.png.The file was compressed from 2.37 KB to 1.50 KB saving 36.79 percent using WP-Optimize 
+[2021-08-25 02:44:42 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2021-08-25 02:44:42 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2021-08-25 02:44:42 : INFO] - Re_Smush_It_Task with attachment ID : 10696, autocreated on : August 25, 2021 02:42:54 
+[2021-08-25 02:44:42 : INFO] - 90 
+[2021-08-25 02:44:42 : INFO] - Backing up the original image - 2021/08/AIRTEC-updraft-pre-smush-original.png 
+[2021-08-25 02:44:42 : INFO] - Re_Smush_It_Task with attachment ID : 10696, autocreated on : August 25, 2021 02:42:54 
+[2021-08-25 02:44:42 : INFO] - 90 
+[2021-08-25 02:44:43 : INFO] - Re_Smush_It_Task with attachment ID : 10696, autocreated on : August 25, 2021 02:42:54 
+[2021-08-25 02:44:43 : INFO] - 90 
+[2021-08-25 02:44:44 : INFO] - Successfully optimized the image - /home/alivingc/public_html/wp-content/uploads/2021/08/AIRTEC.png.The file was compressed from 3.15 KB to 2.21 KB saving 29.93 percent using WP-Optimize 
+[2021-08-25 02:44:44 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2021-08-25 02:44:44 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-08-25 02:44:44 : INFO] - Semaphore (smush) unlocked 
+[2021-08-25 02:44:44 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-08-25 02:44:44 : INFO] - Semaphore (smush, wpp5_options) was successfully cleaned up 
+[2021-08-25 02:44:44 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2021-08-25 02:55:14 : INFO] - 
+ 
+[2021-08-25 02:55:14 : INFO] - Header for logs at time:  Wed, 25 Aug 2021 02:55:14 +0000 on https://a5living.com 
+[2021-08-25 02:55:14 : INFO] - WP: 5.8 
+[2021-08-25 02:55:14 : INFO] - PHP: 7.4.22 (litespeed, Linux nvme219.namehero.net 3.10.0-962.3.2.lve1.5.60.el7.x86_64 #1 SMP Fri Jul 23 07:07:00 EDT 2021 x86_64) 
+[2021-08-25 02:55:14 : INFO] - MySQL: 10.3.30 
+[2021-08-25 02:55:14 : INFO] - WPLANG: zh_HK 
+[2021-08-25 02:55:14 : INFO] - Server: LiteSpeed 
+[2021-08-25 02:55:14 : INFO] - Outbound connections: N 
+[2021-08-25 02:55:14 : INFO] - safe_mode: 0 
+[2021-08-25 02:55:14 : INFO] - max_execution_time: 600 
+[2021-08-25 02:55:14 : INFO] - memory_limit: 368M (used: 119.4M | 123M) 
+[2021-08-25 02:55:14 : INFO] - multisite: N 
+[2021-08-25 02:55:14 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-08-25 02:55:14 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-08-25 03:25:05 : INFO] - Re_Smush_It_Task with attachment ID : 10700, autocreated on : August 25, 2021 03:25:05 
+[2021-08-25 03:30:10 : INFO] - 
+ 
+[2021-08-25 03:30:10 : INFO] - Header for logs at time:  Wed, 25 Aug 2021 03:30:10 +0000 on https://a5living.com 
+[2021-08-25 03:30:10 : INFO] - WP: 5.8 
+[2021-08-25 03:30:10 : INFO] - PHP: 7.4.22 (litespeed, Linux nvme219.namehero.net 3.10.0-962.3.2.lve1.5.60.el7.x86_64 #1 SMP Fri Jul 23 07:07:00 EDT 2021 x86_64) 
+[2021-08-25 03:30:10 : INFO] - MySQL: 10.3.30 
+[2021-08-25 03:30:10 : INFO] - WPLANG: zh_HK 
+[2021-08-25 03:30:10 : INFO] - Server: LiteSpeed 
+[2021-08-25 03:30:10 : INFO] - Outbound connections: N 
+[2021-08-25 03:30:10 : INFO] - safe_mode: 0 
+[2021-08-25 03:30:10 : INFO] - max_execution_time: 600 
+[2021-08-25 03:30:10 : INFO] - memory_limit: 368M (used: 120.3M | 123M) 
+[2021-08-25 03:30:10 : INFO] - multisite: N 
+[2021-08-25 03:30:10 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-08-25 03:30:10 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-08-25 03:30:10 : INFO] - Set semaphore last lock (smush) time to 2021-08-25 03:30:10 
+[2021-08-25 03:30:10 : INFO] - Semaphore lock (smush) complete 
+[2021-08-25 03:30:10 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2021-08-25 03:30:10 : INFO] - Re_Smush_It_Task with attachment ID : 10700, autocreated on : August 25, 2021 03:25:05 
+[2021-08-25 03:30:10 : INFO] - 90 
+[2021-08-25 03:30:12 : INFO] - Backing up the original image - 2021/08/PS-B1-updraft-pre-smush-original.png 
+[2021-08-25 03:30:12 : INFO] - Re_Smush_It_Task with attachment ID : 10700, autocreated on : August 25, 2021 03:25:05 
+[2021-08-25 03:30:12 : INFO] - 90 
+[2021-08-25 03:30:13 : INFO] - Re_Smush_It_Task with attachment ID : 10700, autocreated on : August 25, 2021 03:25:05 
+[2021-08-25 03:30:13 : INFO] - 90 
+[2021-08-25 03:30:13 : INFO] - Re_Smush_It_Task with attachment ID : 10700, autocreated on : August 25, 2021 03:25:05 
+[2021-08-25 03:30:13 : INFO] - 90 
+[2021-08-25 03:30:14 : INFO] - Successfully optimized the image - /home/alivingc/public_html/wp-content/uploads/2021/08/PS-B1.png.The file was compressed from 110.06 KB to 40.71 KB saving 63.01 percent using WP-Optimize 
+[2021-08-25 03:30:14 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2021-08-25 03:30:14 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-08-25 03:30:14 : INFO] - Semaphore (smush) unlocked 
+[2021-08-25 03:30:14 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-08-25 03:30:14 : INFO] - Semaphore (smush, wpp5_options) was successfully cleaned up 
+[2021-08-25 03:30:14 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-08-25 03:40:40 : INFO] - 
+ 
+[2021-08-25 03:40:40 : INFO] - Header for logs at time:  Wed, 25 Aug 2021 03:40:40 +0000 on https://a5living.com 
+[2021-08-25 03:40:40 : INFO] - WP: 5.8 
+[2021-08-25 03:40:40 : INFO] - PHP: 7.4.22 (litespeed, Linux nvme219.namehero.net 3.10.0-962.3.2.lve1.5.60.el7.x86_64 #1 SMP Fri Jul 23 07:07:00 EDT 2021 x86_64) 
+[2021-08-25 03:40:40 : INFO] - MySQL: 10.3.30 
+[2021-08-25 03:40:40 : INFO] - WPLANG: zh_HK 
+[2021-08-25 03:40:40 : INFO] - Server: LiteSpeed 
+[2021-08-25 03:40:40 : INFO] - Outbound connections: N 
+[2021-08-25 03:40:40 : INFO] - safe_mode: 0 
+[2021-08-25 03:40:40 : INFO] - max_execution_time: 600 
+[2021-08-25 03:40:40 : INFO] - memory_limit: 368M (used: 120.2M | 123M) 
+[2021-08-25 03:40:40 : INFO] - multisite: N 
+[2021-08-25 03:40:40 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-08-25 03:40:40 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-09-04 12:48:38 : INFO] - Re_Smush_It_Task with attachment ID : 10717, autocreated on : September 04, 2021 12:48:38 
+[2021-09-04 12:54:56 : INFO] - 
+ 
+[2021-09-04 12:54:56 : INFO] - Header for logs at time:  Sat, 04 Sep 2021 12:54:56 +0000 on https://a5living.com 
+[2021-09-04 12:54:56 : INFO] - WP: 5.8 
+[2021-09-04 12:54:56 : INFO] - PHP: 7.4.22 (litespeed, Linux nvme219.namehero.net 3.10.0-962.3.2.lve1.5.61.el7.x86_64 #1 SMP Wed Aug 18 07:50:15 UTC 2021 x86_64) 
+[2021-09-04 12:54:56 : INFO] - MySQL: 10.3.31 
+[2021-09-04 12:54:56 : INFO] - WPLANG: zh_HK 
+[2021-09-04 12:54:56 : INFO] - Server: LiteSpeed 
+[2021-09-04 12:54:56 : INFO] - Outbound connections: N 
+[2021-09-04 12:54:56 : INFO] - safe_mode: 0 
+[2021-09-04 12:54:56 : INFO] - max_execution_time: 30 
+[2021-09-04 12:54:56 : INFO] - memory_limit: 368M (used: 130M | 134M) 
+[2021-09-04 12:54:56 : INFO] - multisite: N 
+[2021-09-04 12:54:56 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-09-04 12:54:56 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-09-04 12:54:56 : INFO] - Set semaphore last lock (smush) time to 2021-09-04 12:54:56 
+[2021-09-04 12:54:56 : INFO] - Semaphore lock (smush) complete 
+[2021-09-04 12:54:56 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2021-09-04 12:54:56 : INFO] - Re_Smush_It_Task with attachment ID : 10717, autocreated on : September 04, 2021 12:48:38 
+[2021-09-04 12:54:56 : INFO] - 90 
+[2021-09-04 12:54:58 : INFO] - Backing up the original image - woocommerce-placeholder-updraft-pre-smush-original.png 
+[2021-09-04 12:54:58 : INFO] - Re_Smush_It_Task with attachment ID : 10717, autocreated on : September 04, 2021 12:48:38 
+[2021-09-04 12:54:58 : INFO] - 90 
+[2021-09-04 12:54:59 : INFO] - Re_Smush_It_Task with attachment ID : 10717, autocreated on : September 04, 2021 12:48:38 
+[2021-09-04 12:54:59 : INFO] - 90 
+[2021-09-04 12:55:00 : INFO] - Re_Smush_It_Task with attachment ID : 10717, autocreated on : September 04, 2021 12:48:38 
+[2021-09-04 12:55:00 : INFO] - 90 
+[2021-09-04 12:55:02 : INFO] - Re_Smush_It_Task with attachment ID : 10717, autocreated on : September 04, 2021 12:48:38 
+[2021-09-04 12:55:02 : INFO] - 90 
+[2021-09-04 12:55:03 : INFO] - Successfully optimized the image - /home/alivingc/public_html/wp-content/uploads/woocommerce-placeholder.png.The file was compressed from 100.24 KB to 73.05 KB saving 27.12 percent using WP-Optimize 
+[2021-09-04 12:55:03 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2021-09-04 12:55:03 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-09-04 12:55:03 : INFO] - Semaphore (smush) unlocked 
+[2021-09-04 12:55:03 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-09-04 12:55:03 : INFO] - Semaphore (smush, wpp5_options) was successfully cleaned up 
+[2021-09-04 12:55:03 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-09-04 13:05:19 : INFO] - 
+ 
+[2021-09-04 13:05:19 : INFO] - Header for logs at time:  Sat, 04 Sep 2021 13:05:19 +0000 on http://a5living.com 
+[2021-09-04 13:05:19 : INFO] - WP: 5.8 
+[2021-09-04 13:05:19 : INFO] - PHP: 7.4.22 (litespeed, Linux nvme219.namehero.net 3.10.0-962.3.2.lve1.5.61.el7.x86_64 #1 SMP Wed Aug 18 07:50:15 UTC 2021 x86_64) 
+[2021-09-04 13:05:19 : INFO] - MySQL: 10.3.31 
+[2021-09-04 13:05:19 : INFO] - WPLANG: zh_HK 
+[2021-09-04 13:05:19 : INFO] - Server: LiteSpeed 
+[2021-09-04 13:05:19 : INFO] - Outbound connections: N 
+[2021-09-04 13:05:19 : INFO] - safe_mode: 0 
+[2021-09-04 13:05:19 : INFO] - max_execution_time: 30 
+[2021-09-04 13:05:19 : INFO] - memory_limit: 368M (used: 130M | 134M) 
+[2021-09-04 13:05:19 : INFO] - multisite: N 
+[2021-09-04 13:05:19 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-09-04 13:05:19 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 

@@ -1,0 +1,6 @@
+Nov 23 2021 09:11:31
+{"type":2,"message":"file_get_contents(\/var\/www\/html\/a5living\/.well-known\/apple-developer-merchantid-domain-association): failed to open stream: No such file or directory","file":"\/var\/www\/html\/a5living\/wp-content\/plugins\/woocommerce-gateway-stripe\/includes\/class-wc-stripe-apple-pay-registration.php","line":129}
+
+Nov 23 2021 09:11:32
+{"type":2,"message":"file_get_contents(\/var\/www\/html\/a5living\/.well-known\/apple-developer-merchantid-domain-association): failed to open stream: No such file or directory","file":"\/var\/www\/html\/a5living\/wp-content\/plugins\/woocommerce-gateway-stripe\/includes\/class-wc-stripe-apple-pay-registration.php","line":129}
+

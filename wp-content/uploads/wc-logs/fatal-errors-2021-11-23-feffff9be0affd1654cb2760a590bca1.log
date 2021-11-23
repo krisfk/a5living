@@ -1,0 +1,12 @@
+2021-11-23T09:23:43+00:00 CRITICAL Uncaught Error: Class 'W3TC\ConfigState' not found in /var/www/html/a5living/wp-content/plugins/w3-total-cache/Dispatcher.php:67
+Stack trace:
+#0 /var/www/html/a5living/wp-content/plugins/w3-total-cache/Dispatcher.php(51): W3TC\Dispatcher::config_state_master()
+#1 /var/www/html/a5living/wp-content/plugins/w3-total-cache/Licensing_Plugin_Admin.php(278): W3TC\Dispatcher::config_state()
+#2 /var/www/html/a5living/wp-content/plugins/w3-total-cache/Licensing_Plugin_Admin.php(120): W3TC\Licensing_Plugin_Admin->maybe_update_license_status()
+#3 /var/www/html/a5living/wp-includes/class-wp-hook.php(303): W3TC\Licensing_Plugin_Admin->admin_init()
+#4 /var/www/html/a5living/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters()
+#5 /var/www/html/a5living/wp-includes/plugin.php(470): WP_Hook->do_action()
+#6 /var/www/html/a5living/wp-admin/admin-ajax.php(45): do_action()
+#7 {main}
+  thrown in /var/www/html/a5living/wp-content/plugins/w3-total-cache/Dispatcher.php on line 67
+

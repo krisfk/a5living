@@ -1,0 +1,3039 @@
+# Translation of Plugins - Paid Memberships Pro - Stable (latest release) in Chinese (Hong Kong)
+# This file is distributed under the same license as the Plugins - Paid Memberships Pro - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-03 17:48:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_HK\n"
+"Project-Id-Version: Plugins - Paid Memberships Pro - Stable (latest release)\n"
+
+#: blocks/checkout-button/block.php:54
+msgid "Buy Now"
+msgstr "現在購買"
+
+#: adminpages/dashboard.php:405
+msgid "View More"
+msgstr "閱讀全文"
+
+#: adminpages/dashboard.php:397
+msgid "Posted %s"
+msgstr "寫於 %s"
+
+#: adminpages/dashboard.php:391
+#: classes/class-pmpro-admin-activity-email.php:346
+msgid "No news found."
+msgstr "沒有新聞。"
+
+#: adminpages/dashboard.php:360
+msgid "View All Orders "
+msgstr "察看所有訂單"
+
+#: adminpages/dashboard.php:269
+msgid "View All Members "
+msgstr "察看所有會員"
+
+#: adminpages/dashboard.php:202
+msgid "Translation Dashboard"
+msgstr "翻譯面板"
+
+#: adminpages/dashboard.php:202
+msgid "Help translate Paid Memberships Pro into your language."
+msgstr "幫助翻譯Paid Memberships Pro成你的語言。"
+
+#: adminpages/dashboard.php:199
+msgid "Share an honest review at WordPress.org."
+msgstr "在Wordpress.org分享一個真誠的評論。"
+
+#: adminpages/dashboard.php:198
+msgid "Follow @pmproplugin on Twitter."
+msgstr "在Twitter跟蹤 @pmproplugin"
+
+#: adminpages/dashboard.php:194
+msgid "View on GitHub"
+msgstr "在GitHub 察看"
+
+#: adminpages/dashboard.php:194
+msgid "Get involved with our plugin development via GitHub."
+msgstr "在GitHub參與我們Plugin的發展。"
+
+#: adminpages/dashboard.php:193
+msgid "There are many ways you can help support Paid Memberships Pro."
+msgstr "有許多幫助Paid Memberships Pro的方法。"
+
+#: adminpages/dashboard.php:192
+msgid "Get Involved"
+msgstr "參與"
+
+#: adminpages/dashboard.php:186
+msgid "Upgrade"
+msgstr "更新"
+
+#: adminpages/dashboard.php:185
+msgid "View Pricing &raquo;"
+msgstr "察看價目&raquo"
+
+#: adminpages/dashboard.php:125
+msgid "Manage Membership Pages"
+msgstr "管理會員頁面"
+
+#: adminpages/dashboard.php:123
+msgid "Generate Membership Pages"
+msgstr "製造會員頁面"
+
+#: adminpages/dashboard.php:115
+msgid "View Membership Levels"
+msgstr "察看會員級別"
+
+#: adminpages/dashboard.php:108
+msgid "Initial Setup"
+msgstr "初始設置"
+
+#: adminpages/dashboard.php:54
+msgid "Paid Memberships Pro News and Updates"
+msgstr "Paid Memberships Pro的新聞和更新"
+
+#: adminpages/dashboard.php:47
+msgid "Recent Orders"
+msgstr "最近的訂單"
+
+#: adminpages/dashboard.php:40
+msgid "Recent Members"
+msgstr "最新的會員"
+
+#: adminpages/dashboard.php:12
+msgid "Welcome to Paid Memberships Pro"
+msgstr "歡迎來到Paid Memberships Pro"
+
+#: classes/class-pmpro-members-list-table.php:232
+msgid "You can also try searching:"
+msgstr "你也可以嘗試搜尋"
+
+#: adminpages/orders.php:1036
+msgid "Only Free Orders"
+msgstr "免費的訂單"
+
+#: adminpages/orders.php:1034
+msgid "Only Paid Orders"
+msgstr "付費的訂單"
+
+#: adminpages/orders.php:1030
+msgid "With a Discount Code"
+msgstr "折扣代碼"
+
+#: adminpages/dashboard.php:151
+msgid "View Advanced Settings"
+msgstr "察看高級設置"
+
+#: adminpages/dashboard.php:143
+msgid "Confirm Email Settings"
+msgstr "確定電郵設置"
+
+#: adminpages/dashboard.php:133 adminpages/dashboard.php:135
+msgid "Configure Payment Settings"
+msgstr "設置付款方式的設置"
+
+#: adminpages/dashboard.php:165
+msgid "Support License"
+msgstr "支援授權碼"
+
+#: adminpages/dashboard.php:173
+msgid "No support license key found."
+msgstr "沒有找到支援授權碼License Key"
+
+#: adminpages/dashboard.php:161
+msgid "view the Initial Setup Video and Docs."
+msgstr "察看初始設置的視頻和文字說明"
+
+#: adminpages/dashboard.php:160
+msgid "For guidance as your begin these steps,"
+msgstr "進行這些步驟時的指引"
+
+#: adminpages/dashboard.php:155
+msgid "Explore Add Ons for Additional Features"
+msgstr "為得到更多的功能，而探索ADD ON。"
+
+#: adminpages/reports/memberships.php:377 adminpages/reports/sales.php:334
+msgid "All Codes"
+msgstr "所有的程序代碼"
+
+#: includes/functions.php:2433
+msgid "Sign Up Now"
+msgstr "現在就註冊"
+
+#: includes/pointers.php:31
+msgid "PMPro v2.0 Update"
+msgstr "PMPro V2.0 更新"
+
+#: includes/pointers.php:47
+msgid "Close"
+msgstr "關閉"
+
+#: adminpages/advancedsettings.php:267
+msgid "reCAPTCHA Site Key"
+msgstr "reCAPTCHA 公鑰"
+
+#: adminpages/emailtemplates.php:137 classes/class.memberorder.php:960
+msgid "User Email"
+msgstr "使用者電郵"
+
+#: includes/currencies.php:94
+msgid "South Korean Won"
+msgstr "韓圓"
+
+#: includes/currencies.php:97
+msgid "Swedish Krona"
+msgstr "瑞典克朗"
+
+#: includes/currencies.php:98
+msgid "Swiss Franc"
+msgstr "瑞士法郎"
+
+#: includes/currencies.php:99
+msgid "Taiwan New Dollars"
+msgstr "台灣新元"
+
+#: includes/currencies.php:100
+msgid "Thai Baht"
+msgstr "泰銖"
+
+#: includes/currencies.php:101
+msgid "Turkish Lira"
+msgstr "土耳其里拉"
+
+#: includes/currencies.php:111
+msgid "Vietnamese Dong"
+msgstr "越南盾"
+
+#: includes/functions.php:393 includes/functions.php:509
+msgid "The price for membership is <strong>%s</strong> now"
+msgstr "現在的會籍價用是<strong>%s</strong>"
+
+#: includes/functions.php:398 includes/functions.php:511
+msgid "<strong>%s</strong> now"
+msgstr "現在是<strong>%s</strong>"
+
+#: includes/functions.php:446
+msgid "After your initial payment, your first payment is Free."
+msgstr "交給這個首期付款後, 您這個週期如果没有到期或無任何改變您都不需要再交付款."
+
+#: includes/functions.php:448
+msgid "After your initial payment, your first %d payments are Free."
+msgstr "交給這個首期付款後, 您這個週期%d如果没有到期或無任何改變您都不需要再交付款."
+
+#: includes/functions.php:452
+msgid "After your initial payment, your first payment will cost %s."
+msgstr "交給這個首期付款後, 您的第一個付款是 %s."
+
+#: includes/functions.php:554
+msgid "Trial pricing has been applied to the first payment."
+msgstr "試用價格已經應用在第一個付款."
+
+#: includes/functions.php:556
+msgid "Trial pricing has been applied to the first %d payments."
+msgstr "試用價格已經應用在第一個%d付款."
+
+#: includes/functions.php:979
+msgid "User ID not found."
+msgstr "會員ID找不到."
+
+#: includes/functions.php:1003 includes/functions.php:1011
+msgid "Invalid level."
+msgstr "不承認的程度."
+
+#: includes/functions.php:1085
+msgid "Error interacting with database"
+msgstr "同數據庫交流有錯"
+
+#: includes/functions.php:1191
+msgid "Error interacting with database: %s"
+msgstr "同數據庫交流有錯: %s"
+
+#: includes/functions.php:1304 includes/functions.php:1342
+msgid "Membership level not found."
+msgstr "找不到會籍程度."
+
+#: includes/functions.php:1722
+msgid "No code was given to check."
+msgstr "無給到密碼來檢查."
+
+#: includes/functions.php:1731
+msgid "The discount code could not be found."
+msgstr "减價密碼找不到."
+
+#: includes/functions.php:1746
+msgid "This discount code goes into effect on %s."
+msgstr "减價密碼生效在 %s."
+
+#: includes/functions.php:1753
+msgid "This discount code expired on %s."
+msgstr "减價密碼到期在 %s."
+
+#: includes/functions.php:1762
+msgid "This discount code is no longer valid."
+msgstr "减價密碼已經不承認了."
+
+#: includes/functions.php:1781
+msgid "This discount code does not apply to this membership level."
+msgstr "减價密碼不可以啟用在這個程度."
+
+#: includes/functions.php:1819
+msgid "This discount code is okay."
+msgstr "减價密碼無問題."
+
+#: includes/functions.php:1847
+msgid "and"
+msgstr "和"
+
+#: includes/functions.php:2409
+msgid "Sign Up for !!name!! Now"
+msgstr "馬上報名加入到 !!name!!啊"
+
+#: adminpages/orders.php:591 classes/class.pmproemail.php:883
+#: classes/class.pmproemail.php:928 includes/init.php:198
+#: includes/profile.php:34
+msgid "None"
+msgstr "無"
+
+#: adminpages/license.php:19
+msgid "Your license key has been validated."
+msgstr "您的牌照鎖匙已經認可了."
+
+#: adminpages/license.php:43
+msgid "Paid Memberships Pro Support License"
+msgstr "Paid Memberships Pro 支援牌照"
+
+#: adminpages/dashboard.php:178 adminpages/license.php:49
+msgid "Your license is invalid or expired."
+msgstr "不能承認你的牌照或是你的牌照已經到期."
+
+#: adminpages/license.php:59
+msgid "Enter license key here..."
+msgstr "輸入牌照鎖匙在這裏..."
+
+#: includes/updates/upgrade_1_9_4.php:27
+msgid "Dismiss"
+msgstr "消除"
+
+#: includes/localization.php:36
+msgid "Day"
+msgstr "日"
+
+#: includes/localization.php:38
+msgid "Week"
+msgstr "星期"
+
+#: includes/localization.php:40
+msgid "Month"
+msgstr "月"
+
+#: includes/localization.php:42
+msgid "Year"
+msgstr "年"
+
+#: includes/localization.php:49
+msgid "Days"
+msgstr "日s"
+
+#: includes/localization.php:51
+msgid "Weeks"
+msgstr "星期s"
+
+#: includes/localization.php:53
+msgid "Months"
+msgstr "月s"
+
+#: includes/localization.php:55
+msgid "Years"
+msgstr "年s"
+
+#: includes/metaboxes.php:38
+msgid "This post is already protected for this level because it is within a category that requires membership."
+msgstr "因為這個類別需要會籍, 所以這個程度已經保護這個文章."
+
+#: includes/metaboxes.php:107 includes/metaboxes.php:108
+#: blocks/membership/block.js:89 blocks/membership/block.js:101
+#: js/blocks.build.js:1625 js/blocks.build.js:1634
+msgid "Require Membership"
+msgstr "需要會籍"
+
+#: includes/metaboxes.php:136
+msgid "Only members of these levels will be able to view posts in this category."
+msgstr "只是會員有這個程度先能夠看讀這個類別的文章."
+
+#: includes/profile.php:31
+msgid "Current Level"
+msgstr "現行的程度"
+
+#: includes/profile.php:60 includes/profile.php:208 includes/profile.php:255
+msgid "Not paying."
+msgstr "不付費."
+
+#: includes/profile.php:68
+msgid "This will not change the subscription at the gateway unless the 'Cancel' checkbox is selected below."
+msgstr "如果你不選擇以下的'Cancel' checkbox, 這個網關入口裏的會籍就不會改的."
+
+#: includes/updates.php:109
+msgid "Paid Memberships Pro Data Update Required"
+msgstr "Paid Memberships Pro 數據需要更新"
+
+#: includes/updates.php:110
+msgid "(1) <a target=\"_blank\" href=\"%s\">Backup your WordPress database</a></strong> and then (2) <a href=\"%s\">click here to start the update</a>."
+msgstr "(1) <a target=\"_blank\" href=\"%s\">您要先造後備您的WordPress數據庫</a></strong> 和然後 (2) <a href=\"%s\">點擊這裡來開始更新</a>."
+
+#: includes/updates.php:130
+msgid "All Paid Memberships Pro updates have finished."
+msgstr "所有Paid Memberships Pro更新都是完成."
+
+#: pages/billing.php:46
+msgid "Logged in as <strong>%s</strong>."
+msgstr "以<strong>%s</strong>的身份來登入."
+
+#: pages/billing.php:46
+msgid "logout"
+msgstr "登出"
+
+#: adminpages/dashboard.php:224 adminpages/dashboard.php:292
+#: adminpages/orders.php:1343 adminpages/reports/login.php:182
+#: includes/privacy.php:241 includes/profile.php:424 includes/profile.php:494
+#: pages/billing.php:70 pages/cancel.php:70 pages/invoice.php:124
+#: pages/levels.php:27 shortcodes/pmpro_account.php:42
+#: shortcodes/pmpro_account.php:224 blocks/checkout-button/inspector.js:39
+#: js/blocks.build.js:900
+msgid "Level"
+msgstr "程度"
+
+#: pages/billing.php:72
+msgid "Membership Fee"
+msgstr "會籍付款"
+
+#: pages/billing.php:76
+msgid "%s every %d %s."
+msgstr "%s 每個 %d %s."
+
+#: pages/billing.php:78
+msgid "%s per %s."
+msgstr "%s 每 %s."
+
+#: pages/billing.php:89
+msgid "Duration"
+msgstr "持續時間"
+
+#: pages/billing.php:128
+msgid "Your payment subscription is managed by PayPal. Please <a href=\"http://www.paypal.com\">login to PayPal here</a> to update your billing information."
+msgstr "您的會籍付款是給PayPal管理. 請 <a href=\"http://www.paypal.com\">在這裡登入PayPal </a> 來幫助您更新您的付款帳單的資料."
+
+#: includes/profile.php:747 pages/billing.php:164 pages/checkout.php:234
+msgid "First Name"
+msgstr "名字"
+
+#: includes/profile.php:748 pages/billing.php:168 pages/checkout.php:238
+msgid "Last Name"
+msgstr "姓氏"
+
+#: pages/billing.php:174 pages/checkout.php:242
+msgid "Address 1"
+msgstr "地址 1"
+
+#: pages/billing.php:178 pages/checkout.php:246
+msgid "Address 2"
+msgstr "地址 2"
+
+#: pages/billing.php:188 pages/checkout.php:253
+msgid "City"
+msgstr "都市"
+
+#: pages/billing.php:192 pages/checkout.php:257
+msgid "State"
+msgstr "州"
+
+#: pages/billing.php:196 pages/checkout.php:261
+msgid "Postal Code"
+msgstr "郵遞區號"
+
+#: pages/billing.php:205 pages/checkout.php:266
+msgid "City, State Zip"
+msgstr "都市, 州編碼"
+
+#: pages/billing.php:258 pages/checkout.php:303
+msgid "Country"
+msgstr "國家"
+
+#: pages/billing.php:283 pages/checkout.php:319
+msgid "Phone"
+msgstr "電話"
+
+#: pages/billing.php:321
+msgid "Credit Card Information"
+msgstr "信用卡資料"
+
+#: pages/billing.php:322
+msgid "We accept %s"
+msgstr "我們接受 %s"
+
+#: pages/billing.php:467
+msgid "This subscription is not recurring. So you don't need to update your billing information."
+msgstr "這個會籍不是定期的訂閱. 所以你不需要更新你的付款帳單的資料."
+
+#: pages/cancel.php:44
+msgid "Are you sure you want to cancel your membership?"
+msgstr "你真是想除消你的會籍?"
+
+#: pages/cancel.php:56
+msgid "Yes, cancel this membership"
+msgstr "是的, 消你這個會籍"
+
+#: pages/cancel.php:57
+msgid "No, keep this membership"
+msgstr "不是的, 保留這個會籍"
+
+#: pages/cancel.php:66 shortcodes/pmpro_account.php:38
+msgid "My Memberships"
+msgstr "我的會籍"
+
+#: pages/cancel.php:105
+msgid "Cancel All Memberships"
+msgstr "消你的會籍"
+
+#: pages/cancel.php:114
+msgid "Click here to go to the home page."
+msgstr "點擊這裡主頁."
+
+#: pages/checkout.php:54
+msgid "Almost done. Review the membership information and pricing below then <strong>click the \"Complete Payment\" button</strong> to finish your order."
+msgstr "就來完了. 重溫在下面的會籍資料和價格然後 <strong>點擊 \"Complete Payment\" 按鈕</strong> 就可以完成您的訂購."
+
+#: pages/checkout.php:64
+msgid "change"
+msgstr "改變"
+
+#: pages/checkout.php:68
+msgid "You have selected the <strong>%s</strong> membership level."
+msgstr "您已經選擇在 <strong>%s</strong> 會籍程度."
+
+#: services/applydiscountcode.php:127
+msgid "Click here to change your discount code"
+msgstr "點擊這裡减價密碼"
+
+#: pages/checkout.php:97
+msgid "Click here to enter your discount code"
+msgstr "點擊這裡來輸入您的减價密碼"
+
+#: pages/checkout.php:97
+msgid "Do you have a discount code?"
+msgstr "您有不有减價密碼?"
+
+#: pages/checkout.php:129
+msgid "Account Information"
+msgstr "戶口資料"
+
+#: pages/checkout.php:130
+msgid "Already have an account?"
+msgstr "您已經有戶口嗎?"
+
+#: pages/checkout.php:130
+msgid "Log in here"
+msgstr "在這裡請登入"
+
+#: pages/checkout.php:151
+msgid "Confirm Password"
+msgstr "確認密碼"
+
+#: pages/checkout.php:185
+msgid "Full Name"
+msgstr "全名"
+
+#: pages/checkout.php:186
+msgid "LEAVE THIS BLANK"
+msgstr "留下這裡空白"
+
+#: pages/checkout.php:193
+msgid "You are logged in as <strong>%s</strong>. If you would like to use a different account for this membership, <a href=\"%s\">log out now</a>."
+msgstr "您的證入身份是 <strong>%s</strong>. 如果您想改變證入戶口在這個會籍, <a href=\"%s\">馬上證入</a>."
+
+#: pages/checkout.php:209
+msgid "Choose your Payment Method"
+msgstr "付款方式"
+
+#: pages/checkout.php:214
+msgid "Check Out with a Credit Card Here"
+msgstr "在這裡用信用卡來結帳"
+
+#: pages/checkout.php:476
+msgid "I agree to the %s"
+msgstr "我同意這個 %s"
+
+#: pages/checkout.php:514
+msgid "Complete Payment"
+msgstr "完成付款"
+
+#: pages/checkout.php:536
+msgid "Processing..."
+msgstr "做變化過程..."
+
+#: pages/confirmation.php:25
+msgid "Your payment has been submitted. Your membership will be activated shortly."
+msgstr "您的付款以經提交了. 您的會籍好快會活躍起來."
+
+#: pages/confirmation.php:27
+msgid "Thank you for your membership to %s. Your %s membership is now active."
+msgstr "謝謝您您的會籍到 %s. 您的 %s 會籍現在已經活躍了."
+
+#: pages/confirmation.php:41
+msgid "Below are details about your membership account and a receipt for your initial membership invoice. A welcome email with a copy of your initial membership invoice has been sent to %s."
+msgstr "以下是您的會籍戶口資料和一張首期會籍付款發票. 一張歡迎的電郵發票已經寄給到您的 %s, 這張信有您的會籍付款發票."
+
+#: pages/confirmation.php:59 pages/invoice.php:33
+msgid "Invoice #%s on %s"
+msgstr "付款發票 #%s 在 %s"
+
+#: adminpages/orders.php:390 adminpages/orders.php:1431
+#: adminpages/orders.php:1441 includes/profile.php:446
+#: pages/confirmation.php:61 pages/invoice.php:34
+msgid "Print"
+msgstr "印出"
+
+#: pages/confirmation.php:64 pages/confirmation.php:137 pages/invoice.php:37
+msgid "Account"
+msgstr "戶口"
+
+#: pages/confirmation.php:67
+msgid "Membership Expires"
+msgstr "會籍到期"
+
+#: pages/billing.php:96 pages/confirmation.php:95 pages/invoice.php:85
+msgid "Payment Method"
+msgstr "付款方式"
+
+#: includes/profile.php:426 pages/confirmation.php:107 pages/invoice.php:97
+#: pages/invoice.php:125
+msgid "Total Billed"
+msgstr "付款總數"
+
+#: pages/billing.php:98 pages/confirmation.php:97 pages/invoice.php:87
+msgid "ending in"
+msgstr "完在"
+
+#: pages/confirmation.php:125
+msgid "Below are details about your membership account. A welcome email has been sent to %s."
+msgstr "以下是你的會籍戶口的資料. 一張歡迎的電郵已經寄給到 %s."
+
+#: pages/confirmation.php:138 shortcodes/pmpro_account.php:247
+msgid "Pending"
+msgstr "未決定"
+
+#: pages/billing.php:125 pages/billing.php:131 pages/confirmation.php:149
+#: pages/invoice.php:155
+msgid "View Your Membership Account &rarr;"
+msgstr "審視您的會籍戶口 &rarr;"
+
+#: pages/confirmation.php:151
+msgid "If your account is not activated within a few minutes, please contact the site owner."
+msgstr "如果你的戶口在幾分鐘後都是無活躍, 請您通告網站的業主."
+
+#: includes/functions.php:2857
+msgid "Coupon"
+msgstr "禮券"
+
+#: pages/invoice.php:123
+msgid "Invoice #"
+msgstr "發票 #"
+
+#: pages/invoice.php:149
+msgid "No invoices found."
+msgstr "找不到發票."
+
+#: pages/invoice.php:157
+msgid "&larr; View All Invoices"
+msgstr "&larr; 審視所有發票"
+
+#: includes/functions.php:396
+msgid "Free"
+msgstr "免費"
+
+#: pages/levels.php:58
+msgid "Select"
+msgstr "選擇"
+
+#: pages/levels.php:64 shortcodes/pmpro_account.php:94
+msgid "Renew"
+msgstr "續期"
+
+#: pages/levels.php:68
+msgid "Your&nbsp;Level"
+msgstr "您的&nbsp;程度"
+
+#: pages/levels.php:82
+msgid "&larr; Return to Your Account"
+msgstr "&larr; 回到你的戶口"
+
+#: pages/levels.php:84
+msgid "&larr; Return to Home"
+msgstr "&larr; 回到你的主頁"
+
+#: paid-memberships-pro.php:157
+msgid "Testing Only"
+msgstr "只是測試"
+
+#: paid-memberships-pro.php:162
+msgid "PayPal Payflow Pro/PayPal Pro"
+msgstr "PayPal Payflow Pro/PayPal Pro"
+
+#: paid-memberships-pro.php:166
+msgid "Cybersource"
+msgstr "Cybersource"
+
+#: paid-memberships-pro.php:192
+msgid "Once a month"
+msgstr "一個月一次"
+
+#: preheaders/account.php:21 preheaders/levels.php:22
+msgid "Your membership status has been updated - Thank you!"
+msgstr "你的會籍狀態已經更新了 - 謝謝您!"
+
+#: preheaders/account.php:23 preheaders/levels.php:24
+msgid "Sorry, your request could not be completed - please try again in a few moments."
+msgstr "對不起, 您的要求不能完成 - 請你在幾分鐘後再試."
+
+#: preheaders/billing.php:162 preheaders/checkout.php:336
+msgid "Please complete all required fields."
+msgstr "請你完成填寫所有需要的欄位."
+
+#: preheaders/billing.php:165 preheaders/checkout.php:344
+msgid "Your email addresses do not match. Please try again."
+msgstr "你的電郵地址是不相同的. 請再試."
+
+#: preheaders/billing.php:168 preheaders/checkout.php:349
+msgid "The email address entered is in an invalid format. Please try again."
+msgstr "你輸入的電郵地址格式有錯. 請再試."
+
+#: preheaders/billing.php:172
+msgid "All good!"
+msgstr "所有都好!"
+
+#: preheaders/billing.php:239
+msgid "Information updated. <a href=\"%s\">&laquo; back to my account</a>"
+msgstr "資料更新成功. <a href=\"%s\">&laquo; 回到我的戶口</a>"
+
+#: preheaders/billing.php:245
+msgid "Error updating billing information."
+msgstr "付款帳單的資料更新有錯."
+
+#: classes/class.pmproemail.php:895 includes/email.php:459
+#: preheaders/cancel.php:77
+msgid "Your membership has been cancelled."
+msgstr "你的會籍以是除消."
+
+#: preheaders/checkout.php:37 preheaders/checkout.php:358
+msgid "Invalid gateway."
+msgstr "不承認網關入口."
+
+#: preheaders/checkout.php:72
+msgid "Checkout: Payment Information"
+msgstr "結帳: 付款資料"
+
+#: preheaders/checkout.php:77
+msgid "Set Up Your Account"
+msgstr "組織您的戶口"
+
+#: preheaders/checkout.php:301
+msgid "There are JavaScript errors on the page. Please contact the webmaster."
+msgstr "這張網頁的JavaScript有問題. 請您通告網站主人."
+
+#: preheaders/checkout.php:339
+msgid "Your passwords do not match. Please try again."
+msgstr "你的密碼是不相同的. 請再試."
+
+#: preheaders/checkout.php:354
+msgid "Please check the box to agree to the %s."
+msgstr "請在小方格打上鉤來同意這個 %s."
+
+#: preheaders/checkout.php:361
+msgid "Are you a spammer?"
+msgstr "你是不是垃圾郵件發送者?"
+
+#: preheaders/checkout.php:382
+msgid "That username is already taken. Please try another."
+msgstr "這個用戶名以給其他人用以. 請試其他用戶名."
+
+#: preheaders/checkout.php:419
+msgid "reCAPTCHA failed. (%s) Please try again."
+msgstr "reCAPTCHA  失敗. (%s) 請再試."
+
+#: preheaders/checkout.php:445
+msgid "Payment accepted."
+msgstr "接受付款成功."
+
+#: preheaders/checkout.php:451
+msgid "Unknown error generating account. Please contact us to set up your membership."
+msgstr "生産戶口時未知錯誤. 請通告我們來幫助您組織您的會籍."
+
+#: preheaders/checkout.php:537
+msgid "Your payment was accepted, but there was an error setting up your account. Please contact us."
+msgstr "接受您的付款是成功, 但組織您的戶口有錯. 請通告我們."
+
+#: preheaders/checkout.php:792
+msgid "IMPORTANT: Something went wrong during membership creation. Your credit card authorized, but we cancelled the order immediately. You should not try to submit this form again. Please contact the site owner to fix this issue."
+msgstr "重要的: 造會籍時有錯. 您的信用卡已經認可, 但我們已經馬上取消訂購. 您不好再常試提交這張表格. 請您通告網站的業主來修理這個事故."
+
+#: preheaders/checkout.php:795
+msgid "IMPORTANT: Something went wrong during membership creation. Your credit card was charged, but we couldn't assign your membership. You should not submit this form again. Please contact the site owner to fix this issue."
+msgstr "重要的: 造會籍時有錯. 我們已經用到您的信用卡收費了, 但我們不能註冊您的會籍. 您不好再常試提交這張表格. 請您通告網站的業主來修理這個事故."
+
+#: preheaders/checkout.php:806
+msgid "You must <a href=\"%s\">set up a Payment Gateway</a> before any payments will be processed."
+msgstr "您一定要 <a href=\"%s\">組織一個付款網關入口</a> 然後再處埋付款."
+
+#: preheaders/checkout.php:808
+msgid "A Payment Gateway must be set up before any payments will be processed."
+msgstr "您一定要組織一個付款網關入口然後再處埋付款."
+
+#: scheduled/crons.php:46
+msgid "Membership expired email sent to %s. "
+msgstr "會籍已經是到期日有電郵已經寄出到 %s. "
+
+#: scheduled/crons.php:117
+msgid "Membership expiring email sent to %s. "
+msgstr "會籍已經是靠近到期日有電郵已經寄出到 %s. "
+
+#: scheduled/crons.php:206
+msgid "Credit card expiring email sent to %s. "
+msgstr "信用卡已經是靠近到期日有電郵已經寄出到 %s. "
+
+#: scheduled/crons.php:266
+msgid "Trial ending email sent to %s. "
+msgstr "試用期滿了有電郵已經寄出到 %s. "
+
+#: services/applydiscountcode.php:93
+msgid "The %s code has been applied to your order. "
+msgstr "這個 %s 密碼已經應用在你的訂購. "
+
+#: services/applydiscountcode.php:138
+msgid "The <strong>%s</strong> code has been applied to your order."
+msgstr "這個 <strong>%s</strong> 密碼已經應用在你的訂購."
+
+#: services/authnet-silent-post.php:173
+msgid "<p>A payment is being held for review within Authorize.net.</p><p>Payment Information From Authorize.net"
+msgstr "<p>這個付款現在已經授收下Authorize.net審查.</p><p>付款資料從Authorize.net"
+
+#: includes/email-templates.php:68 shortcodes/pmpro_account.php:43
+msgid "Billing"
+msgstr "付款帳單"
+
+#: shortcodes/pmpro_account.php:98
+msgid "Update Billing Info"
+msgstr "更新付款帳單資料"
+
+#: shortcodes/pmpro_account.php:103
+msgid "Change"
+msgstr "改變"
+
+#: shortcodes/pmpro_account.php:158
+msgid "View all Membership Options"
+msgstr "審視所有會籍的選擇"
+
+#: shortcodes/pmpro_account.php:167
+msgid "My Account"
+msgstr "我的戶口"
+
+#: shortcodes/pmpro_account.php:191
+msgid "Edit Profile"
+msgstr "編輯改變檔案"
+
+#: includes/profile.php:872 includes/profile.php:909
+#: shortcodes/pmpro_account.php:195
+msgid "Change Password"
+msgstr "改變密碼"
+
+#: shortcodes/pmpro_account.php:219
+msgid "Past Invoices"
+msgstr "提交發票"
+
+#: shortcodes/pmpro_account.php:225
+msgid "Amount"
+msgstr "數量"
+
+#: shortcodes/pmpro_account.php:264
+msgid "View All Invoices"
+msgstr "審視所有發票"
+
+#: shortcodes/pmpro_account.php:271
+msgid "Member Links"
+msgstr "會員聯繫"
+
+#: adminpages/addons.php:5 adminpages/advancedsettings.php:5
+#: adminpages/discountcodes.php:5 adminpages/emailsettings.php:5
+#: adminpages/emailtemplates.php:5 adminpages/license.php:4
+#: adminpages/membershiplevels.php:5 adminpages/memberslist-csv.php:5
+#: adminpages/orders-csv.php:4 adminpages/orders-print.php:12
+#: adminpages/orders.php:4 adminpages/pagesettings.php:4
+#: adminpages/paymentsettings.php:5 adminpages/updates.php:5
+#: includes/email.php:178 includes/email.php:214 includes/email.php:237
+#: includes/email.php:262 includes/email.php:280 includes/services.php:91
+#: includes/services.php:104
+msgid "You do not have permissions to perform this action."
+msgstr "您無權造這個行動."
+
+#: adminpages/addons.php:81 adminpages/admin_header.php:242
+#: includes/adminpages.php:56 includes/adminpages.php:206
+msgid "Add Ons"
+msgstr "附加"
+
+#: adminpages/addons.php:89
+msgid "Last checked on %s at %s."
+msgstr "最後檢查是 %s 在 %s ."
+
+#: adminpages/addons.php:90
+msgid "Check Again"
+msgstr "再檢查"
+
+#: adminpages/addons.php:94 adminpages/orders.php:1022
+msgid "All"
+msgstr "所有的"
+
+#: adminpages/addons.php:95
+msgid "Active"
+msgstr "活動"
+
+#: adminpages/addons.php:96
+msgid "Inactive"
+msgstr "無活動"
+
+#: adminpages/addons.php:97
+msgid "Update Available"
+msgstr "有升級版"
+
+#: adminpages/addons.php:98
+msgid "Not Installed"
+msgstr "無安裝"
+
+#: adminpages/addons.php:109
+msgid "Add On Name"
+msgstr "附加名"
+
+#: adminpages/addons.php:110
+msgid "Type"
+msgstr "類型"
+
+#: adminpages/addons.php:111 adminpages/membershiplevels.php:359
+msgid "Description"
+msgstr "描述"
+
+#: adminpages/addons.php:135
+msgid "No Add Ons found."
+msgstr "找不到附加."
+
+#: adminpages/addons.php:196 adminpages/addons.php:201
+#: adminpages/addons.php:213
+msgid "Install Now"
+msgstr "現在就安裝"
+
+#: adminpages/addons.php:202 adminpages/addons.php:208
+#: adminpages/addons.php:214 adminpages/addons.php:220
+msgid "Download"
+msgstr "下載"
+
+#: adminpages/addons.php:207 adminpages/addons.php:219
+msgid "Update License"
+msgstr "更新牌照"
+
+#: adminpages/addons.php:225
+msgid "Deactivate"
+msgstr "停用"
+
+#: adminpages/addons.php:225
+msgid "Deactivate %s"
+msgstr "停用 %s"
+
+#: adminpages/addons.php:229
+msgid "Activate"
+msgstr "啟用"
+
+#: adminpages/addons.php:229
+msgid "Activate %s"
+msgstr "啟用 %s"
+
+#: adminpages/addons.php:230 adminpages/discountcodes.php:862
+#: adminpages/discountcodes.php:864 adminpages/membershiplevels.php:887
+#: adminpages/membershiplevels.php:889 adminpages/orders.php:1425
+#: adminpages/orders.php:1427
+msgid "Delete"
+msgstr "刪除"
+
+#: adminpages/addons.php:230
+msgid "Delete %s"
+msgstr "刪除 %s"
+
+#: adminpages/addons.php:240
+msgid "PMPro Free"
+msgstr "PMPro 免費"
+
+#: adminpages/addons.php:242
+msgid "PMPro Core"
+msgstr "PMPro 中心"
+
+#: adminpages/addons.php:244
+msgid "PMPro Plus"
+msgstr "PMPro 加上"
+
+#: adminpages/addons.php:246
+msgid "WordPress.org"
+msgstr "WordPress.org"
+
+#: adminpages/addons.php:248 adminpages/orders.php:587
+#: adminpages/orders.php:920 adminpages/orders.php:1544
+#: adminpages/orders.php:1554 includes/profile.php:173 includes/profile.php:456
+#: includes/profile.php:457 includes/profile.php:514 includes/profile.php:515
+#: includes/profile.php:516 shortcodes/pmpro_account.php:254
+msgid "N/A"
+msgstr "N/A"
+
+#: adminpages/addons.php:257
+msgid "Version %s"
+msgstr "版本  %s"
+
+#: adminpages/addons.php:262
+msgid "By %s"
+msgstr "作者 %s"
+
+#: adminpages/addons.php:269
+msgid "More information about %s"
+msgstr "有關%s的資料"
+
+#: adminpages/addons.php:271
+msgid "View details"
+msgstr "見解細節"
+
+#: adminpages/addons.php:276
+msgid "Visit plugin site"
+msgstr "去插件網頁"
+
+#: adminpages/admin_header.php:25
+msgid "Add a membership level to get started."
+msgstr "加會員會籍就可以開始."
+
+#: adminpages/admin_header.php:27
+msgid "Set up the membership pages"
+msgstr "安裝會員會籍頁面"
+
+#: adminpages/admin_header.php:29
+msgid "Set up your SSL certificate and payment gateway"
+msgstr "安裝SSL證書(SSL certificate)和付款通道payment gateway"
+
+#: adminpages/admin_header.php:39
+msgid "The billing details for some of your membership levels is not supported by Stripe."
+msgstr "Stripe不支援您的會籍付款帳單資料."
+
+#: adminpages/admin_header.php:47
+msgid "The billing details for this level are not supported by Stripe. Please review the notes in the Billing Details section below."
+msgstr "Stripe不支援您的會籍付款帳單資料. 請重溫以下的張付款帳單資料."
+
+#: adminpages/admin_header.php:51 adminpages/admin_header.php:71
+#: adminpages/admin_header.php:98 adminpages/admin_header.php:122
+msgid "The levels with issues are highlighted below."
+msgstr "會籍程度是以下的加亮区."
+
+#: adminpages/admin_header.php:53 adminpages/admin_header.php:73
+#: adminpages/admin_header.php:101 adminpages/admin_header.php:124
+msgid "Please edit your levels"
+msgstr "請編輯改變您的會籍程度"
+
+#: adminpages/admin_header.php:59
+msgid "The billing details for some of your membership levels is not supported by Payflow."
+msgstr "Payflow 不支援您的會籍程度付款帳單資料."
+
+#: adminpages/admin_header.php:67
+msgid "The billing details for this level are not supported by Payflow. Please review the notes in the Billing Details section below."
+msgstr "Payflow 不支援您的會籍程度付款帳單資料. 請重溫以下的張付款帳單資料."
+
+#: adminpages/admin_header.php:82
+msgid "The billing details for some of your membership levels is not supported by Braintree."
+msgstr "Braintree 不支援您的會籍程度付款帳單資料."
+
+#: adminpages/admin_header.php:93
+msgid "The billing details for this level are not supported by Braintree. Please review the notes in the Billing Details section below."
+msgstr "Braintree. 不支援您的會籍程度付款帳單資料. 請重溫以下的張付款帳單資料."
+
+#: adminpages/admin_header.php:109
+msgid "The billing details for some of your membership levels is not supported by TwoCheckout."
+msgstr "TwoCheckout. 不支援您的會籍程度付款帳單資料."
+
+#: adminpages/admin_header.php:118
+msgid "The billing details for this level are not supported by 2Checkout. Please review the notes in the Billing Details section below."
+msgstr "2Checkout. 不支援您的會籍程度付款帳單資料. 請重溫以下的張付款帳單資料."
+
+#: adminpages/admin_header.php:253 adminpages/membershiplevels.php:792
+#: adminpages/pagesettings.php:98 includes/compatibility/beaver-builder.php:134
+#: includes/metaboxes.php:132
+msgid "Membership Levels"
+msgstr "會員會籍程度"
+
+#: adminpages/admin_header.php:261
+msgid "Pages"
+msgstr "頁面"
+
+#: adminpages/admin_header.php:265
+msgid "Payment Gateway &amp; SSL"
+msgstr "付款通道(payment gateway) &amp; SSL"
+
+#: adminpages/orders.php:391 adminpages/orders.php:1445
+#: adminpages/orders.php:1448 includes/profile.php:451 includes/profile.php:750
+#: shortcodes/pmpro_account.php:174
+msgid "Email"
+msgstr "電郵"
+
+#: adminpages/admin_header.php:277
+msgid "Advanced"
+msgstr "高等/深入"
+
+#: adminpages/advancedsettings.php:68
+msgid "Your advanced settings have been updated."
+msgstr "您的深入設定以升級好."
+
+#: adminpages/advancedsettings.php:116 includes/updates/upgrade_1.php:13
+msgid "This content is for members only. Visit the site and log in/register to read."
+msgstr "這些內容是給會員的. 請登入/登記我們的網站就能讀."
+
+#: adminpages/admin_header.php:277 adminpages/advancedsettings.php:132
+#: includes/adminpages.php:73
+msgid "Advanced Settings"
+msgstr "深入的設定"
+
+#: adminpages/advancedsettings.php:164
+msgid "Message for Logged-in Non-members"
+msgstr "有登入後的非會員訊息"
+
+#: adminpages/advancedsettings.php:168
+msgid "This message replaces the post content for non-members. Available variables"
+msgstr "這個訊息是代替文章的內容給非會員的. 可用的變量"
+
+#: adminpages/advancedsettings.php:173
+msgid "Message for Logged-out Users"
+msgstr "這個訊息給登出的會員"
+
+#: adminpages/advancedsettings.php:177
+msgid "This message replaces the post content for logged-out visitors."
+msgstr "這個訊息是代替文章的內容給登出的會員."
+
+#: adminpages/advancedsettings.php:182
+msgid "Message for RSS Feed"
+msgstr "這個訊息是給RSS Feed"
+
+#: adminpages/advancedsettings.php:186
+msgid "This message replaces the post content in RSS feeds."
+msgstr "這個訊息是代替RSS feed的內容."
+
+#: adminpages/advancedsettings.php:199
+msgid "Filter searches and archives?"
+msgstr "過濾搜查和造檔案?"
+
+#: adminpages/advancedsettings.php:203
+msgid "No - Non-members will see restricted posts/pages in searches and archives."
+msgstr "不是 – 在搜查和洛檔案時非會員就只能讀有限制性的文章/網頁內容."
+
+#: adminpages/advancedsettings.php:204
+msgid "Yes - Only members will see restricted posts/pages in searches and archives."
+msgstr "正是 – 在搜查和洛檔案時會員就能讀有限制性的文章/網頁內容."
+
+#: adminpages/advancedsettings.php:210
+msgid "Show Excerpts to Non-Members?"
+msgstr "可出示, 但不能出示給非會員?"
+
+#: adminpages/advancedsettings.php:214
+msgid "No - Hide excerpts."
+msgstr "不是 – 藏起摘錄."
+
+#: adminpages/advancedsettings.php:215
+msgid "Yes - Show excerpts."
+msgstr "正是 - 可出示, 但不能出示."
+
+#: adminpages/advancedsettings.php:333
+msgid "Hide Ads From Members?"
+msgstr "對會員藏起廣告?"
+
+#: adminpages/advancedsettings.php:245 adminpages/advancedsettings.php:337
+#: adminpages/advancedsettings.php:394 adminpages/advancedsettings.php:477
+#: adminpages/membershiplevels.php:941 adminpages/paymentsettings.php:266
+#: classes/gateways/class.pmprogateway_stripe.php:615
+#: classes/gateways/class.pmprogateway_stripe.php:629
+#: includes/compatibility/beaver-builder.php:45
+#: includes/compatibility/beaver-builder.php:141 includes/profile.php:92
+msgid "No"
+msgstr "不是"
+
+#: adminpages/advancedsettings.php:338
+msgid "Hide Ads From All Members"
+msgstr "對所有會員藏起廣告"
+
+#: adminpages/advancedsettings.php:339
+msgid "Hide Ads From Certain Members"
+msgstr "對有些會員藏起廣告"
+
+#: adminpages/advancedsettings.php:346
+msgid "To hide ads in your template code, use code like the following"
+msgstr "如果要藏起在樣板密碼程式的廣告, 就用這些密碼程式"
+
+#: adminpages/advancedsettings.php:355
+msgid "Choose Levels to Hide Ads From"
+msgstr "選擇藏起廣告程度"
+
+#: adminpages/advancedsettings.php:390
+msgid "Redirect all traffic from registration page to /susbcription/?"
+msgstr "改變從電子登記registration交通的方向去到/訂閱subscription/?"
+
+#: adminpages/advancedsettings.php:390
+msgid "multisite only"
+msgstr "只能是複數網站"
+
+#: adminpages/advancedsettings.php:395 adminpages/membershiplevels.php:936
+#: adminpages/membershiplevels.php:938 adminpages/paymentsettings.php:267
+#: classes/gateways/class.pmprogateway_stripe.php:617
+#: classes/gateways/class.pmprogateway_stripe.php:631
+#: includes/compatibility/beaver-builder.php:44
+#: includes/compatibility/beaver-builder.php:140 includes/profile.php:93
+msgid "Yes"
+msgstr "正是"
+
+#: adminpages/advancedsettings.php:241
+msgid "Use reCAPTCHA?"
+msgstr "用 reCAPTCHA?"
+
+#: adminpages/advancedsettings.php:246
+msgid "Yes - Free memberships only."
+msgstr "正是 – 只能是免費會籍."
+
+#: adminpages/advancedsettings.php:247
+msgid "Yes - All memberships."
+msgstr "正是 – 是所有會籍."
+
+#: adminpages/advancedsettings.php:249
+msgid "A free reCAPTCHA key is required."
+msgstr "需要免費reCAPTCHA 鎖匙."
+
+#: adminpages/advancedsettings.php:249
+msgid "Click here to signup for reCAPTCHA"
+msgstr "點擊以下就能報名加入 reCAPTCHA"
+
+#: adminpages/advancedsettings.php:229
+msgid "Require Terms of Service on signups?"
+msgstr "需要有服務條件Terms of Service能報名加入?"
+
+#: adminpages/advancedsettings.php:236
+msgid "If yes, create a WordPress page containing your TOS agreement and assign it using the dropdown above."
+msgstr "如果真是的，就用WordPress造一張有服務條件Terms Of Service的網頁和選入以上的下拉式菜单."
+
+#: adminpages/advancedsettings.php:525 adminpages/pagesettings.php:439
+#: adminpages/paymentsettings.php:297
+msgid "Save Settings"
+msgstr "保存設定"
+
+#: adminpages/discountcodes.php:113
+msgid "Discount code updated successfully."
+msgstr "减價密碼升級成功."
+
+#: adminpages/discountcodes.php:125
+msgid "Error updating discount code. That code may already be in use."
+msgstr "减價密碼升級有錯. 誤减價密碼有可能不是新的."
+
+#: adminpages/discountcodes.php:107
+msgid "Discount code added successfully."
+msgstr "减價密碼加入成功."
+
+#: adminpages/discountcodes.php:121
+msgid "Error adding discount code. That code may already be in use."
+msgstr "减價密碼加入有錯誤.减價密碼有可能不是新的."
+
+#: adminpages/discountcodes.php:287
+msgid "Error saving values for the %s level."
+msgstr "這個%s會籍程度保存數值有錯誤."
+
+#: adminpages/discountcodes.php:295
+msgid "There were errors updating the level values: "
+msgstr "會籍程度數值升級有錯誤: "
+
+#: adminpages/discountcodes.php:335
+msgid "Code %s deleted successfully."
+msgstr "密碼%s清除成功."
+
+#: adminpages/discountcodes.php:340
+msgid "Error deleting discount code. The code was only partially deleted. Please try again."
+msgstr "清除减價密碼有錯誤. 這個密碼不是完全清除. 請再次試下."
+
+#: adminpages/discountcodes.php:346
+msgid "Error deleting code. Please try again."
+msgstr "清除密碼有錯誤. 請再次試下."
+
+#: adminpages/discountcodes.php:352 adminpages/discountcodes.php:796
+msgid "Code not found."
+msgstr "密碼找不到."
+
+#: adminpages/discountcodes.php:373
+msgid "Edit Discount Code"
+msgstr "編輯改變减價密碼"
+
+#: adminpages/discountcodes.php:375 adminpages/discountcodes.php:735
+msgid "Add New Discount Code"
+msgstr "加新减價密碼"
+
+#: adminpages/discountcodes.php:444 adminpages/discountcodes.php:783
+#: adminpages/membershiplevels.php:347 adminpages/membershiplevels.php:807
+#: adminpages/orders.php:1339 adminpages/reports/history.php:182
+#: adminpages/reports/login.php:179 adminpages/templates/orders-email.php:46
+#: adminpages/templates/orders-print.php:75
+msgid "ID"
+msgstr "ID"
+
+#: adminpages/discountcodes.php:445 adminpages/orders.php:421
+msgid "This will be generated when you save."
+msgstr "當保存時會産生造成的."
+
+#: adminpages/dashboard.php:290 adminpages/discountcodes.php:449
+#: adminpages/discountcodes.php:784 adminpages/orders.php:428
+#: adminpages/orders.php:1340
+msgid "Code"
+msgstr "密碼/程式密碼"
+
+#: adminpages/discountcodes.php:487 adminpages/reports/history.php:34
+#: includes/privacy.php:186 includes/profile.php:495
+msgid "Start Date"
+msgstr "開始日期"
+
+#: adminpages/discountcodes.php:505
+#: classes/gateways/class.pmprogateway_braintree.php:479
+#: classes/gateways/class.pmprogateway_stripe.php:1301 pages/billing.php:375
+#: pages/checkout.php:393
+msgid "Expiration Date"
+msgstr "到期日期"
+
+#: adminpages/discountcodes.php:523 adminpages/discountcodes.php:787
+msgid "Uses"
+msgstr "用"
+
+#: adminpages/discountcodes.php:526
+msgid "Leave blank for unlimited uses."
+msgstr "無限就著下空著的."
+
+#: adminpages/discountcodes.php:535
+msgid "Which Levels Will This Code Apply To?"
+msgstr "這個程度會著下怎麼密碼?"
+
+#: adminpages/discountcodes.php:574 adminpages/membershiplevels.php:401
+msgid "Initial Payment"
+msgstr "首期付款"
+
+#: adminpages/discountcodes.php:585 adminpages/membershiplevels.php:412
+msgid "The initial amount collected at registration."
+msgstr "首期會在登記時收集."
+
+#: adminpages/discountcodes.php:590 adminpages/membershiplevels.php:417
+msgid "Recurring Subscription"
+msgstr "定期訂閱"
+
+#: adminpages/discountcodes.php:591 adminpages/membershiplevels.php:418
+msgid "Check if this level has a recurring subscription payment."
+msgstr "請檢查這個會籍程度有不有定期訂閱費."
+
+#: adminpages/discountcodes.php:595 adminpages/membershiplevels.php:422
+msgid "Billing Amount"
+msgstr "付款帳單數量"
+
+#: adminpages/discountcodes.php:610 adminpages/discountcodes.php:697
+#: adminpages/membershiplevels.php:437 adminpages/membershiplevels.php:580
+#: classes/gateways/class.pmprogateway_stripe.php:1344
+msgid "Day(s)"
+msgstr "日(s)"
+
+#: adminpages/discountcodes.php:610 adminpages/discountcodes.php:697
+#: adminpages/membershiplevels.php:437 adminpages/membershiplevels.php:580
+#: classes/gateways/class.pmprogateway_stripe.php:1346
+msgid "Month(s)"
+msgstr "月(s)"
+
+#: adminpages/discountcodes.php:610 adminpages/discountcodes.php:697
+#: adminpages/membershiplevels.php:437 adminpages/membershiplevels.php:580
+#: classes/gateways/class.pmprogateway_stripe.php:1345
+msgid "Week(s)"
+msgstr "星期(s)"
+
+#: adminpages/discountcodes.php:610 adminpages/discountcodes.php:697
+#: adminpages/membershiplevels.php:437 adminpages/membershiplevels.php:580
+#: classes/gateways/class.pmprogateway_stripe.php:1347
+msgid "Year(s)"
+msgstr "年(s)"
+
+#: adminpages/discountcodes.php:618 adminpages/membershiplevels.php:446
+msgid "The amount to be billed one cycle after the initial payment."
+msgstr "交完首期付款後一個週期後的付款數量."
+
+#: adminpages/discountcodes.php:628 adminpages/membershiplevels.php:465
+msgid "Billing Cycle Limit"
+msgstr "結算週期限期"
+
+#: adminpages/discountcodes.php:632 adminpages/membershiplevels.php:469
+msgid "The <strong>total</strong> number of recurring billing cycles for this level, including the trial period (if applicable) but not including the initial payment. Set to zero if membership is indefinite."
+msgstr "在這個會籍程度結算週期的<strong>總數量</strong>, (如果適合就)包含試用期, 但是不包含首期付款. 無限期的會籍就既定是零."
+
+#: adminpages/discountcodes.php:651 adminpages/membershiplevels.php:488
+msgid "Custom Trial"
+msgstr "專門設計試用期"
+
+#: adminpages/discountcodes.php:653 adminpages/membershiplevels.php:490
+msgid "Check to add a custom trial period."
+msgstr "檢查再加專門設計試用期."
+
+#: adminpages/discountcodes.php:661 adminpages/membershiplevels.php:510
+msgid "Trial Billing Amount"
+msgstr "試用付款帳單數量"
+
+#: adminpages/discountcodes.php:672 adminpages/membershiplevels.php:521
+msgid "for the first"
+msgstr "是開始的"
+
+#: adminpages/discountcodes.php:674 adminpages/membershiplevels.php:523
+msgid "subscription payments"
+msgstr "訂閱費"
+
+#: adminpages/discountcodes.php:686 adminpages/membershiplevels.php:559
+msgid "Membership Expiration"
+msgstr "會籍到期"
+
+#: adminpages/discountcodes.php:687 adminpages/membershiplevels.php:560
+msgid "Check this to set when membership access expires."
+msgstr "檢查這個會籍甚麼時候到期, 來設定會籍到期日."
+
+#: adminpages/discountcodes.php:691 adminpages/membershiplevels.php:575
+#: pages/confirmation.php:140
+msgid "Expires In"
+msgstr "到期日是"
+
+#: adminpages/discountcodes.php:707 adminpages/membershiplevels.php:586
+msgid "Set the duration of membership access. Note that the any future payments (recurring subscription, if any) will be cancelled when the membership expires."
+msgstr "設置會籍讀取期限. 注意在會籍到期時任何付款(如果有定期訂閱費)都會在會籍到期時取消."
+
+#: adminpages/discountcodes.php:734
+msgid "Memberships Discount Codes"
+msgstr "會籍减價密碼"
+
+#: adminpages/discountcodes.php:771
+msgid "Search Discount Codes"
+msgstr "搜查减價密碼"
+
+#: adminpages/discountcodes.php:774 adminpages/reports/login.php:120
+msgid "Search"
+msgstr "搜查"
+
+#: adminpages/discountcodes.php:785
+msgid "Starts"
+msgstr "開始"
+
+#: adminpages/dashboard.php:226 adminpages/discountcodes.php:786
+#: adminpages/reports/history.php:187 adminpages/reports/login.php:184
+#: includes/profile.php:89
+msgid "Expires"
+msgstr "到期日"
+
+#: adminpages/admin_header.php:253 adminpages/discountcodes.php:788
+msgid "Levels"
+msgstr "程度"
+
+#: adminpages/orders.php:1565
+msgid "edit"
+msgstr "編輯改變"
+
+#. translators: %s is the Discount Code.
+#: adminpages/discountcodes.php:813
+msgid "Are you sure you want to delete the %s discount code? The subscriptions for existing users will not change, but new users will not be able to use this code anymore."
+msgstr "您真是要刪除%s减價密碼? 現在的會員訂閱費不會改, 但新會員就會不能用减價密碼."
+
+#: adminpages/admin_header.php:269 adminpages/emailsettings.php:85
+#: includes/adminpages.php:71
+msgid "Email Settings"
+msgstr "電郵設定"
+
+#: adminpages/emailsettings.php:88
+msgid "By default, system generated emails are sent from <em><strong>wordpress@yourdomain.com</strong></em>. You can update this from address using the fields below."
+msgstr "從正常預設值， 系統會從<em><strong>wordpress@yourdomain.com</strong></em>生産電郵emails. 您可以更新插入新的地址到以下的欄位."
+
+#: adminpages/emailsettings.php:94
+msgid "From Email"
+msgstr "從自電郵"
+
+#: adminpages/emailsettings.php:102
+msgid "From Name"
+msgstr "從自名"
+
+#: adminpages/emailsettings.php:110
+msgid "Only Filter PMPro Emails?"
+msgstr "只過濾PMPro的電郵?"
+
+#: adminpages/emailsettings.php:114
+msgid "If unchecked, all emails from \"WordPress &lt;%s&gt;\" will be filtered to use the above settings."
+msgstr "如果無核查/無小方格打上鉤, 所有的電郵從 \"WordPress &lt;%s&gt;\" 就用以上的設定來會過濾."
+
+#: adminpages/emailsettings.php:162
+msgid "Send members emails"
+msgstr "送電郵給會員"
+
+#: adminpages/membershiplevels.php:150
+msgid "Membership level added successfully."
+msgstr "加會員會籍程度成功了."
+
+#: adminpages/membershiplevels.php:153
+msgid "Error adding membership level."
+msgstr "加會員會籍程度有錯誤."
+
+#: adminpages/membershiplevels.php:161
+msgid "Membership level updated successfully."
+msgstr "會員會籍更新成功了."
+
+#: adminpages/membershiplevels.php:164
+msgid "Error updating membership level."
+msgstr "會員會籍更新有錯誤."
+
+#: adminpages/membershiplevels.php:219 classes/class-pmpro-levels.php:232
+msgid "There was an error canceling the subscription for user with ID=%d. You will want to check your payment gateway to see if their subscription is still active."
+msgstr "取消會員訂閱有錯誤他的ID=%d. 你要檢查你的付款gateway裏的訂閱是有效的."
+
+#: adminpages/membershiplevels.php:227 classes/class-pmpro-levels.php:240
+msgid "Last Invoice"
+msgstr "最後的發票"
+
+#: adminpages/membershiplevels.php:244
+msgid "Membership level deleted successfully."
+msgstr "取消會員會籍程度成功了."
+
+#: adminpages/membershiplevels.php:247 adminpages/membershiplevels.php:252
+msgid "Error deleting membership level."
+msgstr "取消會員會籍程度有錯誤."
+
+#: adminpages/membershiplevels.php:266
+msgid "Edit Membership Level"
+msgstr "編輯改變會員會籍程度"
+
+#: adminpages/membershiplevels.php:268
+msgid "Add New Membership Level"
+msgstr "加新會員會籍程度"
+
+#: adminpages/membershiplevels.php:354 adminpages/membershiplevels.php:808
+#: adminpages/reports/history.php:184 adminpages/reports/login.php:181
+msgid "Name"
+msgstr "名"
+
+#: adminpages/membershiplevels.php:377
+msgid "Confirmation Message"
+msgstr "確認訊息"
+
+#: adminpages/membershiplevels.php:397 adminpages/membershiplevels.php:809
+msgid "Billing Details"
+msgstr "付款帳單資料"
+
+#: adminpages/discountcodes.php:606 adminpages/membershiplevels.php:433
+#: classes/gateways/class.pmprogateway_stripe.php:1478
+msgid "per"
+msgstr "每"
+
+#: adminpages/discountcodes.php:620 adminpages/membershiplevels.php:448
+msgid "Braintree integration currently only supports billing periods of \"Month\" or \"Year\"."
+msgstr "Braintree只綜合付款帳單用\"月\"或\"年\"的時分."
+
+#: adminpages/membershiplevels.php:454
+msgid "After saving this level, make note of the ID and create a \"Plan\" in your Braintree dashboard with the same settings and the \"Plan ID\" set to <em>pmpro_#</em>, where # is the level ID."
+msgstr "請記下ID和在您的Braintree控制台板開啓相同設定的新計劃\"Plan\"和\"Plan ID\"設定在 <em>pmpro_#</em>, 以#是會員會籍程度ID."
+
+#: adminpages/membershiplevels.php:454 adminpages/membershiplevels.php:459
+#: classes/gateways/class.pmprogateway_cybersource.php:89
+msgid "Note"
+msgstr "注意"
+
+#: adminpages/discountcodes.php:634 adminpages/membershiplevels.php:471
+msgid "Stripe integration currently does not support billing limits. You can still set an expiration date below."
+msgstr "Stripe 的綜合現在不支持付款帳單限制. 你可以在下面設定有限日期."
+
+#: adminpages/discountcodes.php:655 adminpages/membershiplevels.php:493
+msgid "2Checkout integration does not support custom trials. You can do one period trials by setting an initial payment different from the billing amount."
+msgstr "2Checkout 的綜合不支持專門設計試用期. 在付款帳單裏的付款, 你可以設定首期付款來造你的一期試用期, 以又是同付款帳單的付款數量不同."
+
+#: adminpages/discountcodes.php:676 adminpages/membershiplevels.php:525
+msgid "Stripe integration currently does not support trial amounts greater than $0."
+msgstr "Stripe的綜合現在不支持試驗付款超個$0."
+
+#: adminpages/discountcodes.php:678 adminpages/membershiplevels.php:527
+msgid "Braintree integration currently does not support trial amounts greater than $0."
+msgstr "Braintree 的綜合現在不支持試用費超個$0."
+
+#: adminpages/discountcodes.php:680 adminpages/membershiplevels.php:529
+msgid "Payflow integration currently does not support trial amounts greater than $0."
+msgstr "Payflow 的綜合現在不支持試用費超個$0."
+
+#: adminpages/advancedsettings.php:328 adminpages/dashboard.php:140
+#: adminpages/membershiplevels.php:550
+msgid "Other Settings"
+msgstr "其它設定"
+
+#: adminpages/membershiplevels.php:554
+msgid "Disable New Signups"
+msgstr "暫停新的報名"
+
+#: adminpages/membershiplevels.php:555
+msgid "Check to hide this level from the membership levels page and disable registration."
+msgstr "用檢查來藏起這個程度對會籍頁和暫停登記."
+
+#: adminpages/advancedsettings.php:194 adminpages/membershiplevels.php:624
+msgid "Content Settings"
+msgstr "內容設定"
+
+#: adminpages/membershiplevels.php:654
+msgid "Categories"
+msgstr "種類"
+
+#: adminpages/membershiplevels.php:674
+msgid "Save Level"
+msgstr "保存程度"
+
+#: adminpages/membershiplevels.php:675 adminpages/orders.php:968
+#: includes/email-templates.php:123 includes/profile.php:786
+#: includes/profile.php:910 pages/billing.php:426 pages/cancel.php:96
+#: shortcodes/pmpro_account.php:106
+msgid "Cancel"
+msgstr "取消"
+
+#: adminpages/membershiplevels.php:793
+msgid "Add New Level"
+msgstr "加新程度"
+
+#: adminpages/membershiplevels.php:786 adminpages/membershiplevels.php:789
+msgid "Search Levels"
+msgstr "搜查程度"
+
+#: adminpages/membershiplevels.php:797
+msgid "Drag and drop membership levels to reorder them on the Levels page."
+msgstr "在程度頁拉和落下這個會籍程度來再訂購."
+
+#: adminpages/membershiplevels.php:810 pages/billing.php:100
+#: pages/cancel.php:71 pages/confirmation.php:99 pages/invoice.php:89
+#: shortcodes/pmpro_account.php:44
+msgid "Expiration"
+msgstr "到期"
+
+#: adminpages/membershiplevels.php:811
+msgid "Allow Signups"
+msgstr "可以報名"
+
+#: adminpages/membershiplevels.php:921
+msgid "FREE"
+msgstr "免費"
+
+#: adminpages/membershiplevels.php:930
+msgid "After"
+msgstr "以後"
+
+#. translators: %s is the Level Name.
+#: adminpages/membershiplevels.php:837
+msgid "Are you sure you want to delete membership level %s? All subscriptions will be cancelled."
+msgstr "您真是想清除這個會籍程度 %s? 所有訂閱都會取消."
+
+#: adminpages/memberslist.php:20
+msgid "Members List"
+msgstr "會員名單"
+
+#: adminpages/memberslist.php:21 adminpages/orders.php:1000
+msgid "Export to CSV"
+msgstr "輸出到CSV"
+
+#: adminpages/orders.php:1020 adminpages/reports/history.php:103
+#: adminpages/reports/login.php:103 adminpages/reports/memberships.php:331
+#: adminpages/reports/sales.php:293
+#: classes/class-pmpro-members-list-table.php:623
+msgid "Show"
+msgstr "顯示"
+
+#: adminpages/reports/history.php:105 adminpages/reports/login.php:105
+#: adminpages/reports/memberships.php:355 adminpages/reports/sales.php:316
+#: classes/class-pmpro-members-list-table.php:625
+#: classes/class.pmproemail.php:202 classes/class.pmproemail.php:242
+msgid "All Levels"
+msgstr "所有程度"
+
+#: classes/class-pmpro-members-list-table.php:235
+#: classes/class-pmpro-members-list-table.php:635
+msgid "Cancelled Members"
+msgstr "會員以取消了"
+
+#: classes/class-pmpro-members-list-table.php:236
+#: classes/class-pmpro-members-list-table.php:636
+msgid "Expired Members"
+msgstr "會員已經到期了"
+
+#: classes/class-pmpro-members-list-table.php:237
+#: classes/class-pmpro-members-list-table.php:637
+msgid "Old Members"
+msgstr "舊會員"
+
+#: adminpages/memberslist.php:28 adminpages/reports/history.php:115
+#: adminpages/reports/history.php:119
+msgid "Search Members"
+msgstr "搜查會員"
+
+#: adminpages/reports/history.php:177
+msgid "%d members found."
+msgstr "%d 會員找到."
+
+#: adminpages/dashboard.php:223 adminpages/emailtemplates.php:127
+#: adminpages/reports/history.php:183 adminpages/reports/login.php:180
+#: classes/class.memberorder.php:961 pages/checkout.php:134
+#: shortcodes/pmpro_account.php:173
+msgid "Username"
+msgstr "會員名"
+
+#: pages/billing.php:160 pages/checkout.php:230 pages/confirmation.php:78
+#: pages/invoice.php:68
+msgid "Billing Address"
+msgstr "付款帳單地址"
+
+#: adminpages/dashboard.php:225 adminpages/reports/history.php:186
+#: adminpages/reports/login.php:183
+msgid "Joined"
+msgstr "加入到"
+
+#: adminpages/dashboard.php:232 adminpages/reports/history.php:236
+#: adminpages/reports/login.php:263
+#: classes/class-pmpro-members-list-table.php:226
+msgid "No members found."
+msgstr "找不到會員."
+
+#: adminpages/reports/history.php:236 adminpages/reports/login.php:263
+#: classes/class-pmpro-members-list-table.php:228
+msgid "Search all levels"
+msgstr "搜查所有程度"
+
+#: adminpages/functions.php:394
+msgid "Invoice emailed successfully."
+msgstr "發票emai電郵l成功地送出."
+
+#: adminpages/functions.php:398
+msgid "Error emailing invoice."
+msgstr "發票emai電郵送出有錯."
+
+#: adminpages/orders.php:167
+msgid "Order deleted successfully."
+msgstr "成功清除訂購."
+
+#: adminpages/orders.php:170
+msgid "Error deleting order."
+msgstr "清除訂購有錯."
+
+#: adminpages/orders.php:315
+msgid "Order saved successfully."
+msgstr "成功保存訂購."
+
+#: adminpages/orders.php:318
+msgid "Error saving order."
+msgstr "保存訂購有錯."
+
+#: adminpages/orders.php:389 classes/class-pmpro-admin-activity-email.php:219
+#: classes/class.memberorder.php:963
+msgid "Order"
+msgstr "訂購"
+
+#: adminpages/orders.php:393
+msgid "New Order"
+msgstr "新訂購"
+
+#: adminpages/orders.php:439
+msgid "Randomly generated for you."
+msgstr "幫助你隨意産生."
+
+#: adminpages/orders.php:444
+msgid "User ID"
+msgstr "會員ID"
+
+#: adminpages/emailtemplates.php:130 adminpages/orders.php:457
+msgid "Membership Level ID"
+msgstr "會員會籍程度ID"
+
+#: adminpages/orders.php:470 includes/privacy.php:245
+msgid "Billing Name"
+msgstr "付款帳名字"
+
+#: adminpages/orders.php:484 includes/privacy.php:249
+msgid "Billing Street"
+msgstr "付款帳街道名"
+
+#: adminpages/orders.php:497 includes/privacy.php:253 includes/privacy.php:358
+msgid "Billing City"
+msgstr "付款帳都市名"
+
+#: adminpages/orders.php:510 includes/privacy.php:257
+msgid "Billing State"
+msgstr "付款帳州名"
+
+#: adminpages/orders.php:523 includes/privacy.php:261 includes/privacy.php:360
+msgid "Billing Postal Code"
+msgstr "付款帳郵政號碼"
+
+#: adminpages/orders.php:536 includes/privacy.php:265 includes/privacy.php:362
+msgid "Billing Country"
+msgstr "付款帳"
+
+#: adminpages/orders.php:550 includes/privacy.php:269
+msgid "Billing Phone"
+msgstr "付款帳"
+
+#: adminpages/orders.php:602 includes/privacy.php:273
+msgid "Sub Total"
+msgstr "小計部分"
+
+#: adminpages/orders.php:615 includes/functions.php:2849
+#: includes/privacy.php:277
+msgid "Tax"
+msgstr "稅"
+
+#: adminpages/orders.php:632 includes/privacy.php:281
+msgid "Coupon Amount"
+msgstr "禮券數量"
+
+#: adminpages/dashboard.php:293 adminpages/orders.php:650
+#: adminpages/orders.php:1344 includes/functions.php:2878
+#: includes/privacy.php:285
+msgid "Total"
+msgstr "總數"
+
+#: adminpages/orders.php:664 includes/privacy.php:289
+msgid "Payment Type"
+msgstr "付款類型"
+
+#: adminpages/orders.php:675
+msgid "e.g. PayPal Express, PayPal Standard, Credit Card."
+msgstr "例如. PayPal Express, PayPal Standard, Credit Card (信用卡)."
+
+#: adminpages/orders.php:679
+#: classes/gateways/class.pmprogateway_braintree.php:466
+#: classes/gateways/class.pmprogateway_stripe.php:1284 includes/privacy.php:293
+#: pages/billing.php:333 pages/checkout.php:378
+msgid "Card Type"
+msgstr "卡類型"
+
+#: adminpages/orders.php:689
+msgid "e.g. Visa, MasterCard, AMEX, etc"
+msgstr "例如. Visa, MasterCard, AMEX, etc"
+
+#: adminpages/orders.php:693
+#: classes/gateways/class.pmprogateway_twocheckout.php:138
+#: includes/privacy.php:297
+msgid "Account Number"
+msgstr "戶口號碼"
+
+#: adminpages/orders.php:704
+msgid "Obscure all but last 4 digits."
+msgstr "不計最後的4個數字，其也要用少人用的."
+
+#: adminpages/orders.php:713 adminpages/orders.php:724 includes/privacy.php:301
+msgid "Expiration Month"
+msgstr "到期月"
+
+#: adminpages/orders.php:732 includes/privacy.php:305
+msgid "Expiration Year"
+msgstr "限期年份"
+
+#: adminpages/dashboard.php:294 adminpages/orders.php:742
+#: adminpages/orders.php:1348 includes/privacy.php:202 includes/privacy.php:309
+#: includes/profile.php:428 includes/profile.php:499 pages/invoice.php:40
+#: shortcodes/pmpro_account.php:226
+msgid "Status"
+msgstr "狀態"
+
+#: adminpages/orders.php:764 adminpages/orders.php:1346
+#: classes/class.memberorder.php:964 includes/privacy.php:313
+msgid "Gateway"
+msgstr "網關入口"
+
+#: adminpages/orders.php:787 adminpages/paymentsettings.php:148
+#: includes/privacy.php:317
+msgid "Gateway Environment"
+msgstr "網關入口環境"
+
+#: adminpages/orders.php:795 adminpages/paymentsettings.php:152
+msgid "Sandbox/Testing"
+msgstr "沙箱/測試"
+
+#: adminpages/orders.php:796 adminpages/paymentsettings.php:153
+msgid "Live/Production"
+msgstr "活起/生產"
+
+#: adminpages/orders.php:804 includes/privacy.php:321
+msgid "Payment Transaction ID"
+msgstr "付款交易身分証明ID"
+
+#: adminpages/orders.php:814
+msgid "Generated by the gateway. Useful to cross reference orders."
+msgstr "是網關入口生產的. 對訂購有相互參照好處."
+
+#: adminpages/orders.php:819 classes/class.memberorder.php:965
+#: includes/privacy.php:325
+msgid "Subscription Transaction ID"
+msgstr "訂閱交易ID"
+
+#: adminpages/orders.php:830
+msgid "Generated by the gateway. Useful to cross reference subscriptions."
+msgstr "是網關入口生產的. 對訂閱有相互參照好處."
+
+#: adminpages/dashboard.php:295 adminpages/orders.php:835
+#: adminpages/orders.php:1349 includes/profile.php:422 pages/invoice.php:122
+#: shortcodes/pmpro_account.php:223
+msgid "Date"
+msgstr "日期"
+
+#: adminpages/orders.php:880
+msgid "Affiliate ID"
+msgstr "聯盟行銷 ID"
+
+#: adminpages/orders.php:893
+msgid "Affiliate SubID"
+msgstr "聯盟行銷輔 ID"
+
+#: adminpages/orders.php:929
+msgid "Notes"
+msgstr "注意/記錄"
+
+#: adminpages/orders.php:967
+msgid "Save Order"
+msgstr "保存訂購"
+
+#: adminpages/functions.php:425
+msgid "Email Invoice"
+msgstr "電郵發票"
+
+#: adminpages/functions.php:428
+msgid "Send an invoice for this order to: "
+msgstr "為訂購來送發票到: "
+
+#: adminpages/functions.php:430
+msgid "Send Email"
+msgstr "傳送電郵"
+
+#: adminpages/admin_header.php:230 adminpages/discountcodes.php:882
+#: adminpages/orders.php:978 classes/class-pmpro-admin-activity-email.php:221
+#: includes/adminpages.php:53 includes/adminpages.php:170
+msgid "Orders"
+msgstr "訂購"
+
+#: adminpages/orders.php:979
+msgid "Add New Order"
+msgstr "加新訂購"
+
+#: adminpages/orders.php:1024
+msgid "Within a Date Range"
+msgstr "要在日期價格"
+
+#: adminpages/orders.php:1026
+msgid "Predefined Date Range"
+msgstr "於先的日期價格"
+
+#: adminpages/orders.php:1028
+msgid "Within a Level"
+msgstr "要在程度裏"
+
+#: adminpages/orders.php:1032
+msgid "Within a Status"
+msgstr "要在狀態裏"
+
+#: adminpages/orders.php:1044
+msgid "From"
+msgstr "從"
+
+#: adminpages/orders.php:1059
+msgid "To"
+msgstr "給向"
+
+#: adminpages/orders.php:1072
+msgid "filter by "
+msgstr "過濾者是 "
+
+#: adminpages/orders.php:1122
+msgid "Filter"
+msgstr "過濾"
+
+#: adminpages/orders.php:1256 adminpages/orders.php:1259
+msgid "Search Orders"
+msgstr "搜查訂購"
+
+#: adminpages/orders.php:1332
+msgid "%d orders found."
+msgstr "%d 訂購找到."
+
+#: adminpages/dashboard.php:291 adminpages/orders.php:1341
+#: classes/gateways/class.pmprogateway_payflowpro.php:117
+msgid "User"
+msgstr "用者"
+
+#: includes/init.php:177 includes/profile.php:22 pages/checkout.php:63
+#: pages/confirmation.php:65 pages/confirmation.php:138 pages/invoice.php:38
+#: blocks/checkout-button/block.js:73 blocks/checkout-page/block.js:55
+#: blocks/checkout-page/inspector.js:31 js/blocks.build.js:798
+#: js/blocks.build.js:1004 js/blocks.build.js:1086
+msgid "Membership Level"
+msgstr "會員會籍程度"
+
+#: adminpages/orders.php:1345 adminpages/orders.php:1539
+msgid "Payment"
+msgstr "付款"
+
+#: adminpages/orders.php:1347
+msgid "Transaction IDs"
+msgstr "交易IDs"
+
+#: adminpages/dashboard.php:319 adminpages/dashboard.php:334
+#: adminpages/orders.php:1483 adminpages/orders.php:1495
+#: adminpages/reports/history.php:49
+msgid "deleted"
+msgstr "清除"
+
+#: adminpages/orders.php:1548
+msgid "Subscription"
+msgstr "會籍"
+
+#. translators: %s is the Order Code.
+#: adminpages/orders.php:1375
+msgid "Deleting orders is permanent and can affect active users. Are you sure you want to delete order %s?"
+msgstr "如果進行清除訂購就是永久的, 同時會影響活躍的用者. 你真是要清除訂購 %s?"
+
+#: adminpages/dashboard.php:302 adminpages/orders.php:1577
+msgid "No orders found."
+msgstr "找不到訂購."
+
+#: adminpages/pagesettings.php:66
+msgid "Your page settings have been updated."
+msgstr "你個頁面的設定以更新了."
+
+#: adminpages/pagesettings.php:92
+msgid "Membership Account"
+msgstr "會員會籍戶口"
+
+#: adminpages/pagesettings.php:93
+msgid "Membership Billing"
+msgstr "會員會籍付款帳單"
+
+#: adminpages/pagesettings.php:94
+msgid "Membership Cancel"
+msgstr "會員會籍取消"
+
+#: adminpages/pagesettings.php:95
+msgid "Membership Checkout"
+msgstr "會員會籍結帳"
+
+#: adminpages/pagesettings.php:96
+msgid "Membership Confirmation"
+msgstr "確認會員會籍"
+
+#: adminpages/pagesettings.php:97
+msgid "Membership Invoice"
+msgstr "會員會籍的發票"
+
+#: adminpages/pagesettings.php:138
+msgid "The following pages have been created for you"
+msgstr "這個頁昰為你以構造"
+
+#: adminpages/pagesettings.php:167
+msgid "Manage the WordPress pages assigned to each required Paid Memberships Pro page."
+msgstr "要管理WordPress的頁, 就連接在每一個需要的Paid Memberships Pro的頁."
+
+#: adminpages/pagesettings.php:169
+msgid "Assign the WordPress pages for each required Paid Memberships Pro page or"
+msgstr "連接在每一個 WordPress 的頁同需要的Paid Memberships Pro的頁"
+
+#: adminpages/pagesettings.php:170
+msgid "click here to let us generate them for you"
+msgstr "點擊這裡我們就可以幫助生產"
+
+#: adminpages/pagesettings.php:186
+msgid "Account Page"
+msgstr "戶口頁"
+
+#: adminpages/pagesettings.php:190 adminpages/pagesettings.php:207
+#: adminpages/pagesettings.php:224 adminpages/pagesettings.php:242
+#: adminpages/pagesettings.php:260 adminpages/pagesettings.php:278
+#: adminpages/pagesettings.php:296 adminpages/pagesettings.php:414
+msgid "Choose One"
+msgstr "選擇一個"
+
+#: adminpages/pagesettings.php:194 adminpages/pagesettings.php:211
+#: adminpages/pagesettings.php:228 adminpages/pagesettings.php:246
+#: adminpages/pagesettings.php:264 adminpages/pagesettings.php:282
+#: adminpages/pagesettings.php:300 adminpages/pagesettings.php:336
+#: adminpages/pagesettings.php:364 adminpages/pagesettings.php:420
+msgid "edit page"
+msgstr "編輯改變頁"
+
+#: adminpages/pagesettings.php:197 adminpages/pagesettings.php:214
+#: adminpages/pagesettings.php:231 adminpages/pagesettings.php:249
+#: adminpages/pagesettings.php:267 adminpages/pagesettings.php:285
+#: adminpages/pagesettings.php:303 adminpages/pagesettings.php:339
+#: adminpages/pagesettings.php:367 adminpages/pagesettings.php:423
+msgid "view page"
+msgstr "審視頁面"
+
+#: adminpages/pagesettings.php:199 adminpages/pagesettings.php:216
+#: adminpages/pagesettings.php:233 adminpages/pagesettings.php:251
+#: adminpages/pagesettings.php:269 adminpages/pagesettings.php:287
+#: adminpages/pagesettings.php:305
+msgid "Include the shortcode"
+msgstr "包括短密碼"
+
+#: adminpages/pagesettings.php:203
+msgid "Billing Information Page"
+msgstr "帳單資料頁面"
+
+#: adminpages/pagesettings.php:220
+msgid "Cancel Page"
+msgstr "取消頁面"
+
+#: adminpages/pagesettings.php:238
+msgid "Checkout Page"
+msgstr "結帳頁面"
+
+#: adminpages/pagesettings.php:256
+msgid "Confirmation Page"
+msgstr "確認頁面"
+
+#: adminpages/pagesettings.php:274
+msgid "Invoice Page"
+msgstr "發票頁面"
+
+#: adminpages/pagesettings.php:292
+msgid "Levels Page"
+msgstr "程度頁面"
+
+#: adminpages/pagesettings.php:391
+msgid "Additional Page Settings"
+msgstr "加頁面設定"
+
+#: adminpages/pagesettings.php:342 adminpages/pagesettings.php:370
+#: adminpages/pagesettings.php:426
+msgid "Generate Page"
+msgstr "生産頁面"
+
+#: adminpages/paymentsettings.php:66
+msgid "Your payment settings have been updated."
+msgstr "您的付款設定以更新了."
+
+#: adminpages/paymentsettings.php:112 adminpages/paymentsettings.php:127
+msgid "Payment Gateway"
+msgstr "付款網關入口 Gateway"
+
+#: adminpages/paymentsettings.php:112 adminpages/paymentsettings.php:248
+msgid "SSL Settings"
+msgstr "SSL 設定"
+
+#: adminpages/paymentsettings.php:122
+msgid "Choose a Gateway"
+msgstr "選擇一個網關入口"
+
+#: adminpages/paymentsettings.php:194
+msgid "Currency and Tax Settings"
+msgstr "貨幣和稅款設定"
+
+#: adminpages/paymentsettings.php:199
+msgid "Currency"
+msgstr "貨幣"
+
+#: adminpages/paymentsettings.php:215
+msgid "Not all currencies will be supported by every gateway. Please check with your gateway."
+msgstr "網關入口不支援所有的流通貨幣. 請檢查您的網關入口."
+
+#: adminpages/paymentsettings.php:220
+msgid "Accepted Credit Card Types"
+msgstr "接受這個信用卡的種類"
+
+#: adminpages/paymentsettings.php:234
+msgid "Sales Tax"
+msgstr "銷售稅"
+
+#: adminpages/paymentsettings.php:234 pages/billing.php:179
+msgid "optional"
+msgstr "可選擇的"
+
+#: adminpages/paymentsettings.php:237
+msgid "Tax State"
+msgstr "稅州"
+
+#: adminpages/paymentsettings.php:238
+msgid "abbreviation, e.g. \"PA\""
+msgstr "縮寫, e.g. \"PA\""
+
+#: adminpages/paymentsettings.php:239
+msgid "Tax Rate"
+msgstr "税率"
+
+#: adminpages/paymentsettings.php:240
+msgid "decimal, e.g. \"0.06\""
+msgstr "小數點, e.g. \"0.06\""
+
+#: adminpages/paymentsettings.php:253
+msgid "Force SSL"
+msgstr "強迫 SSL"
+
+#: adminpages/paymentsettings.php:268
+msgid "Yes (with JavaScript redirects)"
+msgstr "正是 (啓用 JavaScript redirects)"
+
+#: adminpages/paymentsettings.php:270
+msgid "Recommended: Yes. Try the JavaScript redirects setting if you are having issues with infinite redirect loops."
+msgstr "推薦: 正是, 如果infinite redirect loops有問題你可以試用JavaScript redirects setting."
+
+#: adminpages/paymentsettings.php:278
+msgid "SSL Seal Code"
+msgstr "SSL 印章 密碼"
+
+#: adminpages/paymentsettings.php:287
+msgid "Extra HTTPS URL Filter"
+msgstr "加多HTTPS URL過濾"
+
+#: adminpages/paymentsettings.php:290
+msgid "Pass all generated HTML through a URL filter to add HTTPS to URLs used on secure pages. Check this if you are using SSL and have warnings on your checkout pages."
+msgstr "送給所有生産的HTML通過這個URL過濾, 它會加HTTPS到URLs就變成安全頁面. 請你檢查如果你用SSL和有警告在你的結帳頁."
+
+#: adminpages/reports/history.php:70 adminpages/reports/login.php:71
+#: adminpages/reports/memberships.php:96 adminpages/reports/sales.php:99
+msgid "Details"
+msgstr "細節"
+
+#: adminpages/reports.php:19
+msgid "Back to Reports Dashboard"
+msgstr "回到報道控制台板"
+
+#: adminpages/dashboard.php:33 adminpages/reports/login.php:16
+msgid "Visits, Views, and Logins"
+msgstr "參觀, 審視, 和登入"
+
+#: adminpages/reports/login.php:31
+msgid "Visits"
+msgstr "參觀"
+
+#: adminpages/reports/login.php:32
+msgid "Views"
+msgstr "審視"
+
+#: adminpages/reports/login.php:33
+msgid "Logins"
+msgstr "登入"
+
+#: adminpages/reports/login.php:38 adminpages/reports/memberships.php:49
+#: adminpages/reports/sales.php:50
+msgid "Today"
+msgstr "今日"
+
+#: adminpages/orders.php:1077 adminpages/reports/login.php:50
+#: adminpages/reports/memberships.php:50 adminpages/reports/sales.php:51
+msgid "This Month"
+msgstr "今月"
+
+#: adminpages/reports/login.php:62 adminpages/reports/memberships.php:52
+#: adminpages/reports/sales.php:53
+msgid "All Time"
+msgstr "所有的時間"
+
+#: adminpages/reports/login.php:99
+msgid "Visits, Views, and Logins Report"
+msgstr "參觀, 審視, 和登入報道"
+
+#: adminpages/reports/login.php:104
+#: classes/class-pmpro-members-list-table.php:234
+msgid "All Users"
+msgstr "所有的用者"
+
+#: adminpages/reports/login.php:185
+msgid "Last Visit"
+msgstr "最後的參觀"
+
+#: adminpages/reports/login.php:187
+msgid "Visits This Month"
+msgstr "今月的參觀"
+
+#: adminpages/reports/login.php:191
+msgid "Views This Month"
+msgstr "今月的審視"
+
+#: adminpages/reports/login.php:194
+msgid "Last Login"
+msgstr "最後的登入"
+
+#: adminpages/reports/login.php:196
+msgid "Logins This Month"
+msgstr "今月個的登入"
+
+#: adminpages/dashboard.php:26 adminpages/reports/memberships.php:18
+#: adminpages/reports/memberships.php:327
+msgid "Membership Stats"
+msgstr "會籍的狀態"
+
+#: adminpages/reports/memberships.php:43
+msgid "Signups"
+msgstr "報名"
+
+#: adminpages/reports/memberships.php:44
+msgid "All Cancellations"
+msgstr "所有的取消"
+
+#: adminpages/orders.php:1081 adminpages/reports/memberships.php:51
+#: adminpages/reports/sales.php:52
+msgid "This Year"
+msgstr "今年"
+
+#: adminpages/advancedsettings.php:307 adminpages/reports/memberships.php:333
+#: adminpages/reports/sales.php:295
+msgid "Daily"
+msgstr "每日"
+
+#: adminpages/advancedsettings.php:313 adminpages/reports/memberships.php:334
+#: adminpages/reports/sales.php:296
+msgid "Monthly"
+msgstr "每月"
+
+#: adminpages/reports/memberships.php:335 adminpages/reports/sales.php:297
+msgid "Annual"
+msgstr "每年"
+
+#: adminpages/reports/memberships.php:338
+msgid "Signups vs. All Cancellations"
+msgstr "報名 vs 所有取消"
+
+#: adminpages/reports/memberships.php:339
+msgid "Signups vs. Cancellations"
+msgstr "報名 vs 取消"
+
+#: adminpages/reports/memberships.php:340
+msgid "Signups vs. Expirations"
+msgstr "報名 vs 到期"
+
+#: adminpages/reports/memberships.php:342
+#: adminpages/reports/memberships.php:353 adminpages/reports/sales.php:303
+#: adminpages/reports/sales.php:314
+msgid "for"
+msgstr "為了"
+
+#: adminpages/reports/memberships.php:385 adminpages/reports/sales.php:342
+msgid "Generate Report"
+msgstr "生産報道"
+
+#: adminpages/reports/sales.php:18
+msgid "Sales and Revenue (Testing/Sandbox)"
+msgstr "銷售和收入(沙箱/測試)"
+
+#: adminpages/dashboard.php:19 adminpages/reports/sales.php:20
+#: adminpages/reports/sales.php:289
+#: classes/class-pmpro-admin-activity-email.php:103
+msgid "Sales and Revenue"
+msgstr "銷售和收入"
+
+#: adminpages/reports/sales.php:44 adminpages/reports/sales.php:301
+msgid "Sales"
+msgstr "銷售"
+
+#: adminpages/reports/sales.php:45 adminpages/reports/sales.php:300
+msgid "Revenue"
+msgstr "收入"
+
+#: adminpages/templates/orders-email.php:14
+#: adminpages/templates/orders-print.php:50
+msgid "Invoice #: "
+msgstr "發票 #: "
+
+#: adminpages/templates/orders-email.php:18
+#: adminpages/templates/orders-print.php:54
+msgid "Date:"
+msgstr "日期:"
+
+#: adminpages/templates/orders-email.php:24
+msgid "Bill to:"
+msgstr "發帳單到:"
+
+#: adminpages/templates/orders-email.php:47
+#: adminpages/templates/orders-print.php:76
+msgid "Item"
+msgstr "物件"
+
+#: adminpages/templates/orders-email.php:48
+#: adminpages/templates/orders-print.php:77 pages/levels.php:28
+msgid "Price"
+msgstr "價錢"
+
+#: includes/functions.php:2842
+msgid "Subtotal"
+msgstr "小計部分總數"
+
+#: adminpages/updates.php:14
+msgid "Updating Paid Memberships Pro"
+msgstr "現在更新Paid Memberships Pro"
+
+#: adminpages/updates.php:21
+msgid "Updates are processing. This may take a few minutes to complete."
+msgstr "更新現在是做變化過程. 要用幾分鐘先來完成."
+
+#: adminpages/updates.php:27
+msgid "Update complete."
+msgstr "更新完成."
+
+#: classes/class.memberorder.php:959
+msgid "There was an error canceling the subscription for user with ID=%s. You will want to check your payment gateway to see if their subscription is still active."
+msgstr "取消這個用者ID=%s會員會籍時有錯. 您需要檢查你的網關入口來看訂閱是不是活躍."
+
+#: classes/class.pmproemail.php:52
+msgid "An Email From %s"
+msgstr "電郵從 %s"
+
+#: classes/class.pmproemail.php:191
+msgid "Your membership at %s has been CANCELLED"
+msgstr "你的會籍在 %s 已經被取消"
+
+#: classes/class.pmproemail.php:219
+msgid "Membership for %s at %s has been CANCELLED"
+msgstr "會籍給 %s 在%s 已經被取消"
+
+#: classes/class.pmproemail.php:269
+msgid "Your membership confirmation for %s"
+msgstr "你的會籍確認給 %s"
+
+#: adminpages/orders.php:580 adminpages/orders.php:1350
+#: classes/class.pmproemail.php:329 classes/class.pmproemail.php:338
+#: classes/class.pmproemail.php:347 classes/class.pmproemail.php:425
+#: classes/class.pmproemail.php:434 classes/class.pmproemail.php:757
+#: classes/class.pmproemail.php:759
+#: classes/gateways/class.pmprogateway_braintree.php:509
+#: classes/gateways/class.pmprogateway_stripe.php:1314 includes/profile.php:427
+#: pages/checkout.php:99 pages/checkout.php:105 pages/checkout.php:430
+#: pages/confirmation.php:70 pages/invoice.php:52
+msgid "Discount Code"
+msgstr "减價密碼"
+
+#: classes/class.pmproemail.php:354 classes/class.pmproemail.php:446
+#: classes/class.pmproemail.php:766 classes/class.pmproemail.php:900
+#: classes/class.pmproemail.php:945 includes/email.php:472
+#: includes/email.php:473
+msgid "This membership will expire on %s."
+msgstr "你的會籍會在%s到期."
+
+#: classes/class.pmproemail.php:463
+msgid "Your billing information has been updated at %s"
+msgstr "你的付款帳單資料已經更新在 %s"
+
+#: classes/class.pmproemail.php:513
+msgid "Billing information has been updated for %s at %s"
+msgstr "付款帳單資料已經更新給 %s在%s"
+
+#: classes/class.pmproemail.php:794
+msgid "Your trial at %s is ending soon"
+msgstr "你的試用期在 %s 就近到期日"
+
+#: classes/class.pmproemail.php:831
+msgid "Your membership at %s has ended"
+msgstr "你的會籍在 %s 以完了"
+
+#: classes/class.pmproemail.php:858
+msgid "Your membership at %s will end soon"
+msgstr "你的會籍在 %s 就近完了"
+
+#: classes/class.pmproemail.php:888
+msgid "Your membership at %s has been changed"
+msgstr "你的會籍在 %s 已經改變了"
+
+#: classes/class.pmproemail.php:933
+msgid "Membership for %s at %s has been changed"
+msgstr "這個 %s 籍會在 %s 已經改變了"
+
+#: classes/gateways/class.pmprogateway.php:55
+#: classes/gateways/class.pmprogateway_authorizenet.php:189
+#: classes/gateways/class.pmprogateway_check.php:211
+#: classes/gateways/class.pmprogateway_cybersource.php:155
+#: classes/gateways/class.pmprogateway_payflowpro.php:173
+#: classes/gateways/class.pmprogateway_paypal.php:315
+msgid "Unknown error: Authorization failed."
+msgstr "不常見的問題: 許可有錯."
+
+#: classes/gateways/class.pmprogateway.php:113
+#: classes/gateways/class.pmprogateway_authorizenet.php:246
+#: classes/gateways/class.pmprogateway_check.php:270
+#: classes/gateways/class.pmprogateway_cybersource.php:209
+msgid "A partial payment was made that we could not void. Please contact the site owner immediately to correct this."
+msgstr "有些付款已經做下了半部分我們不能取消. 請您馬上通告網站的業主來修理這個事故."
+
+#: classes/gateways/class.pmprogateway.php:106
+#: classes/gateways/class.pmprogateway.php:111
+#: classes/gateways/class.pmprogateway.php:129
+#: classes/gateways/class.pmprogateway_authorizenet.php:240
+#: classes/gateways/class.pmprogateway_authorizenet.php:245
+#: classes/gateways/class.pmprogateway_authorizenet.php:262
+#: classes/gateways/class.pmprogateway_check.php:263
+#: classes/gateways/class.pmprogateway_check.php:268
+#: classes/gateways/class.pmprogateway_check.php:286
+#: classes/gateways/class.pmprogateway_cybersource.php:203
+#: classes/gateways/class.pmprogateway_cybersource.php:208
+#: classes/gateways/class.pmprogateway_cybersource.php:224
+#: classes/gateways/class.pmprogateway_payflowpro.php:196
+#: classes/gateways/class.pmprogateway_payflowpro.php:201
+#: classes/gateways/class.pmprogateway_paypal.php:338
+msgid "Unknown error: Payment failed."
+msgstr "不常見的問題: 付款有錯."
+
+#: classes/gateways/class.pmprogateway_authorizenet.php:55
+#: paid-memberships-pro.php:164
+msgid "Authorize.net"
+msgstr "Authorize.net"
+
+#: classes/gateways/class.pmprogateway_authorizenet.php:110
+msgid "Authorize.net Settings"
+msgstr "Authorize.net 設定"
+
+#: classes/gateways/class.pmprogateway_authorizenet.php:115
+msgid "Login Name"
+msgstr "登入名"
+
+#: classes/gateways/class.pmprogateway_authorizenet.php:123
+msgid "Transaction Key"
+msgstr "交易鎖匙"
+
+#: classes/gateways/class.pmprogateway_authorizenet.php:131
+msgid "Silent Post URL"
+msgstr "無聲文章URL"
+
+#: classes/gateways/class.pmprogateway_authorizenet.php:134
+msgid "To fully integrate with Authorize.net, be sure to set your Silent Post URL to"
+msgstr "要完全配合了Authorize.net, 你需要設定無聲文章URL到"
+
+#: classes/gateways/class.pmprogateway_authorizenet.php:914
+#: classes/gateways/class.pmprogateway_authorizenet.php:915
+msgid "Could not connect to Authorize.net"
+msgstr "不能同Authorize.net相連"
+
+#: classes/gateways/class.pmprogateway_braintree.php:87
+#: classes/gateways/class.pmprogateway_stripe.php:91
+msgid "The %s gateway depends on the %s PHP extension. Please enable it, or ask your hosting provider to enable it."
+msgstr "這個 %s 網關入口需要%s PHP extension. 請你開起來, 或請你的網站宿主開起來."
+
+#: classes/gateways/class.pmprogateway_braintree.php:251
+#: paid-memberships-pro.php:165
+msgid "Braintree Payments"
+msgstr "Braintree 付款"
+
+#: classes/gateways/class.pmprogateway_braintree.php:308
+msgid "Braintree Settings"
+msgstr "Braintree 設定"
+
+#: classes/gateways/class.pmprogateway_braintree.php:313
+#: classes/gateways/class.pmprogateway_cybersource.php:94
+msgid "Merchant ID"
+msgstr "商人 ID"
+
+#: classes/gateways/class.pmprogateway_braintree.php:321
+msgid "Public Key"
+msgstr "公立鎖匙"
+
+#: classes/gateways/class.pmprogateway_braintree.php:329
+msgid "Private Key"
+msgstr "私人鎖匙"
+
+#: classes/gateways/class.pmprogateway_braintree.php:337
+msgid "Client-Side Encryption Key"
+msgstr "客人的加密鎖匙"
+
+#: classes/gateways/class.pmprogateway_braintree.php:345
+msgid "Web Hook URL"
+msgstr "網鉤 URL"
+
+#: classes/gateways/class.pmprogateway_braintree.php:348
+msgid "To fully integrate with Braintree, be sure to set your Web Hook URL to"
+msgstr "全面同Braintree配合, 你需要設定網鉤URL到"
+
+#: classes/gateways/class.pmprogateway_braintree.php:454
+#: classes/gateways/class.pmprogateway_stripe.php:1263 pages/checkout.php:366
+msgid "Payment Information"
+msgstr "付款資料"
+
+#: classes/gateways/class.pmprogateway_braintree.php:455
+#: classes/gateways/class.pmprogateway_stripe.php:1264 pages/checkout.php:367
+msgid "We Accept %s"
+msgstr "我們接受 %s"
+
+#: classes/gateways/class.pmprogateway_braintree.php:475
+#: classes/gateways/class.pmprogateway_stripe.php:1297 pages/billing.php:371
+#: pages/checkout.php:389
+msgid "Card Number"
+msgstr "卡號碼"
+
+#: classes/gateways/class.pmprogateway_braintree.php:503 pages/billing.php:410
+msgid "CVV"
+msgstr "CVV"
+
+#: classes/gateways/class.pmprogateway_braintree.php:504 pages/billing.php:411
+#: pages/checkout.php:425
+msgid "what's this?"
+msgstr "這是怎麼?"
+
+#: classes/gateways/class.pmprogateway_braintree.php:511
+#: classes/gateways/class.pmprogateway_stripe.php:1319 pages/checkout.php:107
+#: pages/checkout.php:432
+msgid "Apply"
+msgstr "啟用"
+
+#: classes/gateways/class.pmprogateway_braintree.php:574
+msgid "Unknown error: Initial payment failed."
+msgstr "不常見的問題: 首期付款失敗."
+
+#: classes/gateways/class.pmprogateway_braintree.php:650
+msgid "Error during settlement:"
+msgstr "定居時有錯:"
+
+#: classes/gateways/class.pmprogateway_braintree.php:659
+msgid "Error during charge:"
+msgstr "收費時有錯:"
+
+#: classes/gateways/class.pmprogateway_braintree.php:762
+msgid "Failed to update customer."
+msgstr "客戶戶口更新失敗."
+
+#: classes/gateways/class.pmprogateway_braintree.php:810
+msgid "Failed to create customer."
+msgstr "客戶戶口創建失敗."
+
+#: classes/gateways/class.pmprogateway_braintree.php:817
+msgid "Error creating customer record with Braintree:"
+msgstr "在Braintree造客戶記錄有錯:"
+
+#: classes/gateways/class.pmprogateway_braintree.php:1036
+msgid "Could not find the subscription."
+msgstr "找不到訂閱."
+
+#: classes/gateways/class.pmprogateway_check.php:49
+#: paid-memberships-pro.php:158
+msgid "Pay by Check"
+msgstr "用支票來付費"
+
+#: classes/gateways/class.pmprogateway_check.php:102
+msgid "Pay by Check Settings"
+msgstr "用支票來付費設定"
+
+#: classes/gateways/class.pmprogateway_check.php:107
+msgid "Instructions"
+msgstr "說明/指導"
+
+#: classes/gateways/class.pmprogateway_check.php:111
+msgid "Who to write the check out to. Where to mail it. Shown on checkout, confirmation, and invoice pages."
+msgstr "這張支票是寫給誰人. 寄出到何處. 出示在結帳頁, 確認頁, 和發票頁."
+
+#: classes/gateways/class.pmprogateway_cybersource.php:36
+msgid "CyberSource"
+msgstr "CyberSource"
+
+#: classes/gateways/class.pmprogateway_cybersource.php:84
+msgid "CyberSource Settings"
+msgstr "CyberSource設定"
+
+#: classes/gateways/class.pmprogateway_cybersource.php:89
+msgid "This gateway option is in beta. Some functionality may not be available. Please contact Paid Memberships Pro with any issues you run into. <strong>Please be sure to upgrade Paid Memberships Pro to the latest versions when available.</strong>"
+msgstr "這個網關入口選擇是在試用版先有. 有些功能是無的. 如果有任可問題請訊息Paid Memberships Pro. <strong>請你確定Paid Memberships Pro是最新的版本.</strong>"
+
+#: classes/gateways/class.pmprogateway_cybersource.php:102
+msgid "Transaction Security Key"
+msgstr "交易保安鎖匙"
+
+#: classes/gateways/class.pmprogateway_payflowpro.php:39
+msgid "Payflow Pro/PayPal Pro"
+msgstr "Payflow Pro/PayPal Pro"
+
+#: classes/gateways/class.pmprogateway_payflowpro.php:96
+msgid "Payflow Pro Settings"
+msgstr "Payflow Pro 設定"
+
+#: classes/gateways/class.pmprogateway_payflowpro.php:101
+msgid "Partner"
+msgstr "同伴"
+
+#: classes/gateways/class.pmprogateway_payflowpro.php:109
+msgid "Vendor"
+msgstr "賣主"
+
+#: classes/gateways/class.pmprogateway_payflowpro.php:125
+#: pages/checkout.php:143
+msgid "Password"
+msgstr "密碼"
+
+#: classes/gateways/class.pmprogateway_payflowpro.php:133
+msgid "IPN Handler"
+msgstr "IPN 處置程式"
+
+#: classes/gateways/class.pmprogateway_payflowpro.php:203
+#: classes/gateways/class.pmprogateway_paypal.php:345
+msgid "A partial payment was made that we could not refund. Please contact the site owner immediately to correct this."
+msgstr "有些付款已經做下了半部分我們不能夠退款. 請您馬上通告網站的業主來修理這個事故."
+
+#: classes/gateways/class.pmprogateway_paypal.php:68
+#: paid-memberships-pro.php:161
+msgid "PayPal Website Payments Pro"
+msgstr "PayPal Website Payments Pro"
+
+#: classes/gateways/class.pmprogateway_paypal.php:132
+#: classes/gateways/class.pmprogateway_paypalexpress.php:141
+#: classes/gateways/class.pmprogateway_paypalstandard.php:133
+msgid "PayPal Settings"
+msgstr "PayPal 設定"
+
+#: classes/gateways/class.pmprogateway_paypal.php:153
+#: classes/gateways/class.pmprogateway_paypalexpress.php:162
+#: classes/gateways/class.pmprogateway_paypalstandard.php:154
+msgid "Gateway Account Email"
+msgstr "網關入口戶口電郵"
+
+#: classes/gateways/class.pmprogateway_paypal.php:161
+#: classes/gateways/class.pmprogateway_paypalexpress.php:170
+#: classes/gateways/class.pmprogateway_paypalstandard.php:162
+#: classes/gateways/class.pmprogateway_twocheckout.php:120
+msgid "API Username"
+msgstr "API 用戶名"
+
+#: classes/gateways/class.pmprogateway_paypal.php:169
+#: classes/gateways/class.pmprogateway_paypalexpress.php:178
+#: classes/gateways/class.pmprogateway_paypalstandard.php:170
+#: classes/gateways/class.pmprogateway_twocheckout.php:129
+msgid "API Password"
+msgstr "API 密碼"
+
+#: classes/gateways/class.pmprogateway_paypal.php:177
+#: classes/gateways/class.pmprogateway_paypalexpress.php:186
+#: classes/gateways/class.pmprogateway_paypalstandard.php:178
+msgid "API Signature"
+msgstr "API 簽名"
+
+#: classes/gateways/class.pmprogateway_paypal.php:185
+#: classes/gateways/class.pmprogateway_paypalexpress.php:194
+msgid "Confirmation Step"
+msgstr "確認程序"
+
+#: classes/gateways/class.pmprogateway_paypal.php:196
+#: classes/gateways/class.pmprogateway_paypalexpress.php:205
+#: classes/gateways/class.pmprogateway_paypalstandard.php:186
+msgid "IPN Handler URL"
+msgstr "IPN 處置程式 URL"
+
+#: classes/gateways/class.pmprogateway_paypal.php:281
+#: classes/gateways/class.pmprogateway_paypalexpress.php:488
+#: classes/gateways/class.pmprogateway_paypalstandard.php:241
+#: pages/checkout.php:218
+msgid "Check Out with PayPal"
+msgstr "PayPal來結帳"
+
+#: classes/gateways/class.pmprogateway_paypal.php:287
+#: classes/gateways/class.pmprogateway_paypalexpress.php:493
+#: classes/gateways/class.pmprogateway_paypalstandard.php:246
+#: pages/checkout.php:526
+msgid "Submit and Check Out"
+msgstr "提交和結帳"
+
+#: classes/gateways/class.pmprogateway_paypal.php:287
+#: classes/gateways/class.pmprogateway_paypalexpress.php:493
+#: classes/gateways/class.pmprogateway_paypalstandard.php:246
+#: classes/gateways/class.pmprogateway_twocheckout.php:205
+#: pages/checkout.php:526
+msgid "Submit and Confirm"
+msgstr "提交和確認"
+
+#: classes/gateways/class.pmprogateway_paypal.php:716
+#: classes/gateways/class.pmprogateway_paypalexpress.php:831
+#: classes/gateways/class.pmprogateway_paypalstandard.php:588
+msgid "Please contact the site owner or cancel your subscription from within PayPal to make sure you are not charged going forward."
+msgstr "如果您不想繼續提交付款, 請您通告您的網站的業主或取消您的PayPal訂閱."
+
+#: classes/gateways/class.pmprogateway_paypalexpress.php:84
+#: paid-memberships-pro.php:160
+msgid "PayPal Express"
+msgstr "PayPal Express"
+
+#: classes/gateways/class.pmprogateway_paypal.php:199
+#: classes/gateways/class.pmprogateway_paypalexpress.php:208
+msgid "To fully integrate with PayPal, be sure to set your IPN Handler URL to "
+msgstr "要完全配合了PayPal, 你需要設定 IPN Handler URL 到 "
+
+#: classes/gateways/class.pmprogateway_paypalexpress.php:342
+#: classes/gateways/class.pmprogateway_paypalexpress.php:401
+msgid "The PayPal Token was lost."
+msgstr "這個 PayPal Token 是遺失了."
+
+#: classes/gateways/class.pmprogateway_paypalstandard.php:71
+#: paid-memberships-pro.php:163
+msgid "PayPal Standard"
+msgstr "PayPal Standard"
+
+#: classes/gateways/class.pmprogateway_paypalstandard.php:189
+msgid "Here is your IPN URL for reference. You SHOULD NOT set this in your PayPal settings."
+msgstr "這是您的 IPN URL 參考. 您不需要在PayPal設定頁造設定."
+
+#: classes/gateways/class.pmprogateway_stripe.php:252
+#: paid-memberships-pro.php:159
+msgid "Stripe"
+msgstr "Stripe"
+
+#: classes/gateways/class.pmprogateway_stripe.php:551
+msgid "Secret Key"
+msgstr "秘密鎖匙"
+
+#: classes/gateways/class.pmprogateway_stripe.php:535
+msgid "Publishable Key"
+msgstr "公佈得的鎖匙"
+
+#: classes/gateways/class.pmprogateway_stripe.php:610
+msgid "Show Billing Address Fields"
+msgstr "顯示付款帳單地址的欄位"
+
+#: classes/gateways/class.pmprogateway_stripe.php:619
+msgid "Stripe doesn't require billing address fields. Choose 'No' to hide them on the checkout page.<br /><strong>If No, make sure you disable address verification in the Stripe dashboard settings.</strong>"
+msgstr "Stripe不需要付款帳單地址的欄位. 選擇'No'來藏起這些結帳頁.<br /><strong>如果'No', 你一定要確定在你的Stripe的控制台板設定查証地址是無效的.</strong>"
+
+#: classes/gateways/class.pmprogateway_stripe.php:1391
+msgid "Subscription Updates"
+msgstr "訂閱以更新"
+
+#: classes/gateways/class.pmprogateway_stripe.php:1395
+msgid "Subscription updates, allow you to change the member's subscription values at predefined times. Be sure to click Update Profile after making changes."
+msgstr "訂閱以更新, 可以允許你在預早時改好你的訂閱數值. 在改好後一定要點擊你的更新檔案Update Profile."
+
+#: classes/gateways/class.pmprogateway_stripe.php:1397
+msgid "Subscription updates, allow you to change the member's subscription values at predefined times. Be sure to click Update User after making changes."
+msgstr "訂閱以更新, 可以允許你在預早時改好你的訂閱數值. 在改好後一定要點擊你的更新用Update User."
+
+#: classes/gateways/class.pmprogateway_stripe.php:1403 pages/billing.php:425
+msgid "Update"
+msgstr "更新"
+
+#: classes/gateways/class.pmprogateway_stripe.php:2492
+msgid "Could not cancel the old subscription. Updates have not been processed."
+msgstr "不可以取消舊訂閱. 不可以取消舊訂閱. 更新没有處理."
+
+#: classes/gateways/class.pmprogateway_stripe.php:2108
+#: classes/gateways/class.pmprogateway_stripe.php:2113
+#: classes/gateways/class.pmprogateway_stripe.php:2118
+msgid "Error creating customer record with Stripe:"
+msgstr "造Stripe的客戶記錄有錯:"
+
+#: classes/gateways/class.pmprogateway_stripe.php:2177
+#: classes/gateways/class.pmprogateway_stripe.php:2182
+msgid "Error getting subscription with Stripe:"
+msgstr "在Stripe找訂閱有錯:"
+
+#: classes/gateways/class.pmprogateway_stripe.php:2351
+#: classes/gateways/class.pmprogateway_stripe.php:2356
+msgid "Error creating plan with Stripe:"
+msgstr "在Stripe建造計劃有錯:"
+
+#: classes/gateways/class.pmprogateway_stripe.php:2387
+#: classes/gateways/class.pmprogateway_stripe.php:2401
+msgid "Error subscribing customer to plan with Stripe:"
+msgstr "在Stripe訂閱客戶到計劃有錯:"
+
+#: classes/gateways/class.pmprogateway_stripe.php:2644
+msgid "Could not cancel old subscription."
+msgstr "不可以取消舊訂閱."
+
+#: classes/gateways/class.pmprogateway_stripe.php:2660
+msgid "Could not find the customer."
+msgstr "找不到找客戶."
+
+#: classes/gateways/class.pmprogateway_stripe.php:2828
+#: classes/gateways/class.pmprogateway_stripe.php:2834
+msgid "Error: "
+msgstr "有錯: "
+
+#: classes/gateways/class.pmprogateway_stripe.php:2848
+msgid "Error: Unkown error while refunding charge #%s"
+msgstr "提交 #%s退款時有未知的錯誤發生"
+
+#: classes/gateways/class.pmprogateway_twocheckout.php:59
+msgid "2Checkout"
+msgstr "2Checkout"
+
+#: classes/gateways/class.pmprogateway_twocheckout.php:115
+msgid "2Checkout Settings"
+msgstr "2Checkout 設定"
+
+#: classes/gateways/class.pmprogateway_twocheckout.php:124
+msgid "Go to Account &raquo; User Management in 2Checkout and create a user with API Access and API Updating."
+msgstr "去到Account &raquo; 在2Checkout的User Management 然後用API Access造用者和API 更新."
+
+#: classes/gateways/class.pmprogateway_twocheckout.php:133
+msgid "Password for the API user created."
+msgstr "API 用者密碼以造好了."
+
+#: classes/gateways/class.pmprogateway_twocheckout.php:142
+msgid "Click on the profile icon in 2Checkout to find your Account Number."
+msgstr "在2Checkout要找出你的戶口號碼請點擊檔案圖示."
+
+#: classes/gateways/class.pmprogateway_twocheckout.php:147
+msgid "Secret Word"
+msgstr "秘密字"
+
+#: classes/gateways/class.pmprogateway_twocheckout.php:151
+msgid "Go to Account &raquo; Site Management. Look under Checkout Options to find the Secret Word."
+msgstr "去到Account &raquo; Site Management. 看下Checkout Options來找秘密字."
+
+#: classes/gateways/class.pmprogateway_twocheckout.php:156
+msgid "TwoCheckout INS URL"
+msgstr "TwoCheckout INS URL"
+
+#: classes/gateways/class.pmprogateway_twocheckout.php:159
+msgid "To fully integrate with 2Checkout, be sure to use the following for your INS URL and Approved URL"
+msgstr "要完全配合2Checkout, 一定要用你的 INS URL 和 Approved URL"
+
+#: classes/gateways/class.pmprogateway_twocheckout.php:205
+msgid "Check Out with 2Checkout"
+msgstr "同2Checkout結帳"
+
+#: includes/adminpages.php:48
+msgid "Memberships"
+msgstr "會籍"
+
+#: adminpages/admin_header.php:261 adminpages/pagesettings.php:149
+#: includes/adminpages.php:69
+msgid "Page Settings"
+msgstr "設定頁"
+
+#: includes/adminpages.php:70
+msgid "Payment Settings"
+msgstr "付款設定"
+
+#: adminpages/admin_header.php:234 includes/adminpages.php:54
+#: includes/adminpages.php:182
+msgid "Reports"
+msgstr "報道"
+
+#: adminpages/admin_header.php:257 includes/adminpages.php:68
+msgid "Discount Codes"
+msgstr "减價密碼"
+
+#: includes/adminpages.php:79
+msgid "Updates Required"
+msgstr "需要更新"
+
+#: includes/adminpages.php:135
+msgid "<span class=\"ab-icon\"></span>Memberships"
+msgstr "<span class=\"ab-icon\"></span>會籍"
+
+#: includes/adminpages.php:414
+msgid "Docs"
+msgstr "Docs"
+
+#: includes/adminpages.php:414
+msgid "View PMPro Documentation"
+msgstr "審視PMPro Documentation"
+
+#: includes/adminpages.php:415
+msgid "Support"
+msgstr "支援"
+
+#: includes/adminpages.php:415
+msgid "Visit Customer Support Forum"
+msgstr "參觀客戶支援論壇"
+
+#: includes/currencies.php:7 includes/currencies.php:121
+#: includes/currencies.php:148
+msgid "US Dollars (&#36;)"
+msgstr "美元 (&#36;)"
+
+#: includes/currencies.php:9 includes/currencies.php:124
+msgid "Euros (&euro;)"
+msgstr "歐元 (&euro;)"
+
+#: includes/currencies.php:14 includes/currencies.php:123
+msgid "Pounds Sterling (&pound;)"
+msgstr "英鎊 (&pound;)"
+
+#: includes/currencies.php:18
+msgid "Argentine Peso (&#36;)"
+msgstr "阿根廷比索 (&#36;)"
+
+#: includes/currencies.php:19
+msgid "Australian Dollars (&#36;)"
+msgstr "澳元 (&#36;)"
+
+#: includes/currencies.php:21
+msgid "Brazilian Real (R&#36;)"
+msgstr "巴西雷亞爾(R&#36;)"
+
+#: includes/currencies.php:25 includes/currencies.php:122
+msgid "Canadian Dollars (&#36;)"
+msgstr "加元 (&#36;)"
+
+#: includes/currencies.php:26
+msgid "Chinese Yuan"
+msgstr "人民幣"
+
+#: includes/currencies.php:28
+msgid "Czech Koruna"
+msgstr "捷克克朗"
+
+#: includes/currencies.php:36
+msgid "Danish Krone"
+msgstr "丹麥克朗"
+
+#: includes/currencies.php:48
+msgid "Hong Kong Dollar (&#36;)"
+msgstr "港元 (&#36;)"
+
+#: includes/currencies.php:49
+msgid "Hungarian Forint"
+msgstr "匈牙利福林"
+
+#: includes/currencies.php:50
+msgid "Indian Rupee"
+msgstr "印度盧比"
+
+#: includes/currencies.php:51
+msgid "Indonesia Rupiah"
+msgstr "印度尼西亞盧比盾"
+
+#: includes/currencies.php:52
+msgid "Israeli Shekel"
+msgstr "以色列謝克"
+
+#: includes/currencies.php:54
+msgid "Japanese Yen (&yen;)"
+msgstr "日圓 (&yen;)"
+
+#: includes/currencies.php:60
+msgid "Malaysian Ringgits"
+msgstr "馬來西亞令吉"
+
+#: includes/currencies.php:61
+msgid "Mexican Peso (&#36;)"
+msgstr "墨西哥比索 (&#36;)"
+
+#: includes/currencies.php:62
+msgid "Nigerian Naira (&#8358;)"
+msgstr "尼日利亞奈拉 (&#8358;)"
+
+#: includes/currencies.php:63
+msgid "New Zealand Dollar (&#36;)"
+msgstr "新西蘭元 (&#36;)"
+
+#: includes/currencies.php:64
+msgid "Norwegian Krone"
+msgstr "挪威克朗"
+
+#: includes/currencies.php:65
+msgid "Philippine Pesos"
+msgstr "菲律賓比索"
+
+#: includes/currencies.php:66
+msgid "Polish Zloty"
+msgstr "波蘭茲羅提"
+
+#: includes/currencies.php:84
+msgid "Singapore Dollar (&#36;)"
+msgstr "新加坡元 (&#36;)"
+
+#: includes/currencies.php:89
+msgid "South African Rand (R)"
+msgstr "南非蘭德 (R)"
+
+#: adminpages/paymentsettings.php:260
+msgid "Your Site URL starts with https:// and so PMPro will allow your entire site to be served over HTTPS."
+msgstr "你的網站現在會全面採用HTTPS原因是你的網站的URL開頭是用https:// 的。"
