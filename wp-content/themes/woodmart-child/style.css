@@ -13,5 +13,6 @@ Text Domain: woodmart-child
 
 .show-price-range {
     font-weight: 600;
+    font-size: 22px;
     color: var(--wd-primary-color);
 }
