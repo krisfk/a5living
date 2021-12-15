@@ -34,7 +34,7 @@ global $product;
 
                     if($product_type=='simple')
                     {
-                        echo  $product_type;
+                        echo $product->get_price_html();
                     }
                     else
                     {
