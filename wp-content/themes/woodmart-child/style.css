@@ -16,3 +16,7 @@ Text Domain: woodmart-child
     font-size: 22px;
     color: var(--wd-primary-color);
 }
+
+#shipping_method label {
+    width: 90%;
+}
