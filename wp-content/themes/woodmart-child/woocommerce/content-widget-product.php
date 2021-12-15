@@ -45,20 +45,23 @@ if ( $woodmart_widget_product_img_size && function_exists( 'wpb_getImageBySize' 
 
 ?>
 <li>
-	<?php do_action( 'woocommerce_widget_product_item_start', $args ); ?>
-	<span class="widget-product-wrap">
-		<a href="<?php echo esc_url( get_permalink( $product->get_id() ) ); ?>" title="<?php echo esc_attr( $product->get_title() ); ?>" class="widget-product-img">
-			<?php echo apply_filters( 'woodmart_product_widget_image', $img ); ?>
-		</a>
-		<span class="widget-product-info">
-			<a href="<?php echo esc_url( get_permalink( $product->get_id() ) ); ?>" title="<?php echo esc_attr( $product->get_title() ); ?>" class="wd-entities-title">
-				<?php echo wp_kses_post( $product->get_title() ); ?>
-			</a>
-			<?php if ( ! empty( $show_rating ) ) : ?>
-				<?php echo wc_get_rating_html( $product->get_average_rating() ); ?>
-			<?php endif; ?>
-			<span class="price"><?php echo apply_filters( 'woodmart_product_widget_price_html', $product->get_price_html() ); ?></span>
-		</span>
-	</span>
-	<?php do_action( 'woocommerce_widget_product_item_end', $args ); ?>
+    <?php do_action( 'woocommerce_widget_product_item_start', $args ); ?>
+    <span class="widget-product-wrap">
+        <a href="<?php echo esc_url( get_permalink( $product->get_id() ) ); ?>"
+            title="<?php echo esc_attr( $product->get_title() ); ?>" class="widget-product-img">
+            <?php echo apply_filters( 'woodmart_product_widget_image', $img ); ?>
+        </a>
+        <span class="widget-product-info">
+            <a href="<?php echo esc_url( get_permalink( $product->get_id() ) ); ?>"
+                title="<?php echo esc_attr( $product->get_title() ); ?>" class="wd-entities-title">
+                <?php echo wp_kses_post( $product->get_title() ); ?>fff
+            </a>
+            <?php if ( ! empty( $show_rating ) ) : ?>
+            <?php echo wc_get_rating_html( $product->get_average_rating() ); ?>
+            <?php endif; ?>
+            <span
+                class="price"><?php echo apply_filters( 'woodmart_product_widget_price_html', $product->get_price_html() ); ?></span>
+        </span>
+    </span>
+    <?php do_action( 'woocommerce_widget_product_item_end', $args ); ?>
 </li>
