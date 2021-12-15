@@ -31,7 +31,35 @@ global $product;
 
     <?php
                     $product_type = $product->get_type();
-echo  $product_type;
+
+                    if($product_type=='simple')
+                    {
+                        echo  $product_type;
+                    }
+                    else
+                    {
+                        $variations = $product->get_available_variations();
+                        // $was_price=[];
+                        // $now_price=[];
+                        $all_price=[];
+                        // print_r($variations);
+                    
+                        foreach ($variations as $variation) {
+
+                            $display_price = $variation['display_price'];
+                            array_push($all_price,$display_price );
+
+
+                            // $display_regular_price = $variation['display_regular_price'];
+                            // $display_price = $variation['display_price'];
+                            // array_push($was_price,$display_regular_price );
+                            // array_push($now_price,$display_price );
+                        }
+
+                        print_r($all_price);
+    
+                                
+                    }
 // echo 999;
 // print_r($product);
 ?>
