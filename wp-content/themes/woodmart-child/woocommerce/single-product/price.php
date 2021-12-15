@@ -31,6 +31,7 @@ global $product;
     <?php
                     $product_type = $product->get_type();
 echo  $product_type;
+echo 999;
 // print_r($product);
 ?>
 
