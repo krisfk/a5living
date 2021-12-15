@@ -24,3 +24,7 @@ Text Domain: woodmart-child
 .woocommerce-shipping-totals.shipping th {
     width: 15%;
 }
+
+.order-total th {
+    width: 20%;
+}
