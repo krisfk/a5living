@@ -29,8 +29,8 @@ global $product;
     //echo $product->get_price_html(); ?>
 
     <?php
-                    $product_type = $product->get_type();
-echo  $product_type;
+                    // $product_type = $product->get_type();
+// echo  $product_type;
 echo 999;
 // print_r($product);
 ?>
