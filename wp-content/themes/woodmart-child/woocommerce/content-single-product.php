@@ -79,7 +79,7 @@ if ( $full_height_sidebar && $page_layout != 'full-width' ) {
 <?php endif ?>
 
 <div class="container">
-    999999
+
     <?php
 		/**
 		 * Hook: woocommerce_before_single_product.
@@ -158,6 +158,7 @@ if ( $full_height_sidebar && $page_layout != 'full-width' ) {
 								 * @hooked woocommerce_template_single_sharing - 50
 								 */
 								do_action( 'woocommerce_single_product_summary' );
+								echo 99999;
 							?>
                         </div>
                     </div>
