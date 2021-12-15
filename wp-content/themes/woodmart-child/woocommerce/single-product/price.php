@@ -49,18 +49,20 @@ global $product;
                             $display_price = $variation['display_price'];
                             array_push($all_price,$display_price );
 
-                            $min_price = min($all_price);
-                            $max_price = max($all_price);
-
-
-                            echo '$'.$min_price.' - '.$max_price; 
-
+                        
                             // $display_regular_price = $variation['display_regular_price'];
                             // $display_price = $variation['display_price'];
                             // array_push($was_price,$display_regular_price );
                             // array_push($now_price,$display_price );
                         }
 
+                        $min_price = min($all_price);
+                        $max_price = max($all_price);
+
+
+                        echo '$'.$min_price.' - '.$max_price; 
+
+                        
                         // print_r($all_price);
     
                                 
