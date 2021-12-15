@@ -54,7 +54,7 @@ if ( $woodmart_widget_product_img_size && function_exists( 'wpb_getImageBySize' 
         <span class="widget-product-info">
             <a href="<?php echo esc_url( get_permalink( $product->get_id() ) ); ?>"
                 title="<?php echo esc_attr( $product->get_title() ); ?>" class="wd-entities-title">
-                <?php echo wp_kses_post( $product->get_title() ); ?>fff
+                <?php echo wp_kses_post( $product->get_title() ); ?>
             </a>
             <?php if ( ! empty( $show_rating ) ) : ?>
             <?php echo wc_get_rating_html( $product->get_average_rating() ); ?>
