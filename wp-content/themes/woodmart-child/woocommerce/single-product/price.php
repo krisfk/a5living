@@ -59,6 +59,10 @@ global $product;
                         $min_price = min($all_price);
                         $max_price = max($all_price);
 
+                        if($min_price==$max_price)
+                        {
+                            echo '<div class="show-price-range">$'.$min_price.'</div>';
+                        }
 
                         echo '<div class="show-price-range">$'.$min_price.' - $'.$max_price.'</div>'; 
 
