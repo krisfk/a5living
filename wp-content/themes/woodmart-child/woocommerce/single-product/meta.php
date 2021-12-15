@@ -23,7 +23,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 global $product;
 ?>
 <div class="product_meta">
-    fff
+
     <?php do_action( 'woocommerce_product_meta_start' ); ?>
 
     <?php if ( wc_product_sku_enabled() && ( $product->get_sku() || $product->is_type( 'variable' ) ) ) : ?>
