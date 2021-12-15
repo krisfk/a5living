@@ -10,3 +10,8 @@ License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Version: 1.0.0
 Text Domain: woodmart-child
 */
+
+.show-price-range {
+    font-weight: 600;
+    color: var(--wd-primary-color);
+}
