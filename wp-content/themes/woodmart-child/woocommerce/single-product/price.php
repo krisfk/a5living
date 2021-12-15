@@ -62,7 +62,7 @@ global $product;
 
                         echo '<div class="show-price-range">$'.$min_price.' - $'.$max_price.'</div>'; 
 
-                        
+                            
                         // print_r($all_price);
     
                                 
